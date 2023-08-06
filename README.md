@@ -6,7 +6,6 @@ Technically this is the most modern version of Source that you'll ever get from 
 
 # How to use
 I'll paste this one from the VDC page, asuming you'll be working with Visual Studio 2010:
-- You'll first need to edit the `game/server/swarm_sdk_server.vcproj` file to remove an error. The filename listed on line 2232 includes a bogus string, \&apos;\&#x0A;$File, which you will need to remove. If you do not remove this string the project conversion process will fail.
 - Go inside the game/server folder and double click on `swarm_sdk_server.vcproj`. This will load the project into visual studio.
 In the solution explorer, right click on solution and choose Add -> Existing project. Add both these projects to your solution:
 ```
@@ -19,6 +18,6 @@ In the solution explorer, right click on solution and choose Add -> Existing pro
     2) Right-click on the Server (Swarm) solution, and rename it to Server.
 
 # Extra notes
-You might want to delete Post-Compile scripts, so Visual Studio won't attempt to copy the .dll files to an missing directory.
-
-Compiled DLLs are inside the respective folders (client, missionchooser, server) inside game folder, under an folder prefixed with your build type, ex: (foldername)_release
+- You might want to delete Post-Compile scripts, so Visual Studio won't attempt to copy the .dll files to an missing directory.
+- Compiled DLLs are inside the respective folders (client, missionchooser, server) inside game folder, under an folder prefixed with your build type, ex: Release or Release_(modname)
+- Debug compile is broken and might not be fixed in this branch (if so, checkout other branches in this repository!), compiling on Release works fine.
