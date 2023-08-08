@@ -1,0 +1,1 @@
+Compiled binaries are going to be placed in this folder (client, server and missionchooser).

@@ -1,0 +1,1 @@
+Scripts for entities and other misc stuff specific for your mod should go in here.

@@ -1,0 +1,1 @@
+Mod content (like, the "bin" folder, maps, gameinfo and such) should end in here.
