@@ -20,4 +20,4 @@ In the solution explorer, right click on solution and choose Add -> Existing pro
 # Extra notes
 - You might want to delete Post-Compile scripts, so Visual Studio won't attempt to copy the .dll files to an missing directory.
 - Compiled DLLs are either inside the respective folders (client, missionchooser, server) inside `src/game` folder, under an folder prefixed with your build type (ex: `Release` or `Release_(modname)`) or inside `game/swarm/bin` folder outside `src` folder.
-- Debug compile is broken and might not be fixed in this branch (if so, checkout other branches in this repository!), compiling on Release works fine.
+- Compiling on Debug might be broken and might not be fixed in this branch (if so, checkout other branches in this repository!), compiling on Release works fine.
