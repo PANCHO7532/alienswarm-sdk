@@ -27,9 +27,9 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
-				Description="Publishing to target directory (..\..\game\swarm\bin\)..."
-				CommandLine="if exist &quot;..\..\game\swarm\bin\game_shader_dx9.dll&quot; attrib -r &quot;..\..\game\swarm\bin\game_shader_dx9.dll&quot;&#x0D;&#x0A;"
-				Outputs="&quot;..\..\game\swarm\bin\game_shader_dx9.dll&quot;"
+				Description="Publishing to target directory (..\..\game\mod_swarm\bin\)..."
+				CommandLine="if exist &quot;..\..\game\mod_swarm\bin\game_shader_dx9.dll&quot; attrib -r &quot;..\..\game\mod_swarm\bin\game_shader_dx9.dll&quot;&#x0D;&#x0A;"
+				Outputs="&quot;..\..\game\mod_swarm\bin\game_shader_dx9.dll&quot;"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"
@@ -146,9 +146,9 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
-				Description="Publishing to target directory (..\..\game\swarm\bin\)..."
-				CommandLine="if exist &quot;..\..\game\swarm\bin\game_shader_dx9.dll&quot; attrib -r &quot;..\..\game\swarm\bin\game_shader_dx9.dll&quot;&#x0D;&#x0A;"
-				Outputs="&quot;..\..\game\swarm\bin\game_shader_dx9.dll&quot;"
+				Description="Publishing to target directory (..\..\game\mod_swarm\bin\)..."
+				CommandLine="if exist &quot;..\..\game\mod_swarm\bin\game_shader_dx9.dll&quot; attrib -r &quot;..\..\game\mod_swarm\bin\game_shader_dx9.dll&quot;&#x0D;&#x0A;"
+				Outputs="&quot;..\..\game\mod_swarm\bin\game_shader_dx9.dll&quot;"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"
