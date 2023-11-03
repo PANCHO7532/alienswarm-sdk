@@ -3,7 +3,7 @@ Thanks for taking your time on contributing to this project! In this document yo
 
 ## Contents
 - [Code of Conduct](#code-of-conduct)
-- [Making issues and questions](#i-have-a-question)
+- [Making issues and questions](#making-issues-and-questions)
 - [Contributing to this project](#i-want-to-contribute)
 - [Reporting bugs](#reporting-bugs)
 - [Styleguides](#styleguides)
