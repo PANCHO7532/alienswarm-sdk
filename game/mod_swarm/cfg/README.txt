@@ -1,0 +1,1 @@
+In this folder you can find config.cfg and put any .cfg file to be executed using the command "exec" in console.

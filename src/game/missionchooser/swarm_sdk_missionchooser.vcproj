@@ -2,7 +2,7 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="8.00"
-	Name="MissionChooser"
+	Name="missionchooser"
 	ProjectGUID="{A26C0361-6B09-9E3D-5194-C9CB89243710}"
 	>
 	<Platforms>
