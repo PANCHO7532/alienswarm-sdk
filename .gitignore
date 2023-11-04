@@ -1,0 +1,16 @@
+# Ignore game binaries
+game/*/bin/*.dll
+game/*/bin/*.pdb
+game/*/bin/*.map
+
+# Ignore solution and modern project files
+.vs/
+Backup/
+Backup*/
+Debug/
+Debug*/
+Release/
+Release*/
+*.sln
+*.vcxproj.user
+UpgradeLog*.htm
