@@ -139,6 +139,15 @@
 #include "tier1/UtlDict.h"
 #include "keybindinglistener.h"
 
+// P7: Visual Studio 2015 and onwards made the following function undefined, breaking the current jpeglib version.
+//     If you want to get rid of this, update jpeglib or recompile it on a recent Visual Studio version.
+#if (defined( _MSC_VER ) && _MSC_VER >= 1900)
+FILE _iob[] = { *stdin, *stdout, *stderr };
+extern "C" FILE * __cdecl __iob_func(void) {
+	return _iob;
+}
+#endif /* _MSC_VER >= 1900 */
+
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"
 
