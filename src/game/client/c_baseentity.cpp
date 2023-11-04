@@ -4801,7 +4801,11 @@ C_BaseEntity *C_BaseEntity::Instance( int iEnt )
 
 #ifdef WIN32
 #pragma warning( push )
+#if (defined( _MSC_VER ) && _MSC_VER >= 1900)
+#include <typeinfo>
+#else
 #include <typeinfo.h>
+#endif
 #pragma warning( pop )
 #endif
 

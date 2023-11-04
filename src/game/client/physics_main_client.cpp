@@ -7,7 +7,13 @@
 #include "cbase.h"
 #include "c_baseentity.h"
 #ifdef WIN32
+#if (defined( _MSC_VER ) && _MSC_VER >= 1900)
+#include <typeinfo>
+#else
 #include <typeinfo.h>
+#endif
+#else
+#include <typeinfo>
 #endif
 #include "tier0/vprof.h"
 
