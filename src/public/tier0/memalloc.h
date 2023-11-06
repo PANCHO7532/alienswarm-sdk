@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: This header should never be used directly from leaf code!!!
 // Instead, just add the file memoverride.cpp into your project and all this
@@ -394,7 +394,11 @@ public:
 
 	#pragma warning(disable:4290)
 	#pragma warning(push)
+#if _MSC_VER >= 1900
+	#include <typeinfo>
+#else
 	#include <typeinfo.h>
+#endif
 
 	// MEM_DEBUG_CLASSNAME is opt-in.
 	// Note: typeid().name() is not threadsafe, so if the project needs to access it in multiple threads
