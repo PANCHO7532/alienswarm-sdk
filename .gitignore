@@ -14,3 +14,7 @@ Release*/
 *.sln
 *.vcxproj.user
 UpgradeLog*.htm
+
+# Ignore common CMake files
+CMakeCache.txt
+CMakeFiles/
