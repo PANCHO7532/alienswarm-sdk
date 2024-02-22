@@ -18,3 +18,9 @@ UpgradeLog*.htm
 # Ignore common CMake files
 CMakeCache.txt
 CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignore private tools, not intended for public use *yet*
+private/
+hardclean.sh
