@@ -11,6 +11,10 @@ Debug/
 Debug*/
 Release/
 Release*/
+Win32/
+Win32*/
+x64/
+x64/*
 *.sln
 *.vcxproj.user
 UpgradeLog*.htm

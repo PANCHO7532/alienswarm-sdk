@@ -207,5 +207,10 @@ target_link_libraries(${PROJECT_NAME}
     vtf
 )
 if(MSVC)
-    set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "/MAP /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+    if(MSVC_VERSION GREATER 1800)
+        # Include legacy definitions if we are on Visual Studio 2015 or superior.
+        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"legacy_stdio_definitions.lib\" /MAP /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+    else()
+        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "/MAP /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+    endif()
 endif()
