@@ -23,4 +23,5 @@ Makefile
 
 # Ignore private tools, not intended for public use *yet*
 private/
+hardclean.bat
 hardclean.sh
