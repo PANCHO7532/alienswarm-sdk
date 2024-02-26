@@ -21,4 +21,5 @@ message(STATUS "Build type: ${CMAKE_BUILD_TYPE}")
 project(game)
 include(cmake/projectPreferences.cmake)
 
+add_subdirectory(src/game/client)
 add_subdirectory(src/game/missionchooser)

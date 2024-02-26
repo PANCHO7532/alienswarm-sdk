@@ -16,9 +16,18 @@ include_directories(../../common
     TileSource
     keyvalues_editor
 )
-add_definitions(-DDLLNAME=${PROJECT_NAME} -DVPCGAME=${SOURCEMOD_NAME} -DVPCGAMECAPS=${SOURCEMOD_NAME_CAPS} -DMEMOVERRIDE_MODULE=${PROJECT_NAME})
+add_definitions(-DDLLNAME=${PROJECT_NAME}
+    -DVPCGAME=${SOURCEMOD_NAME}
+    -DVPCGAMECAPS=${SOURCEMOD_NAME_CAPS}
+    -DMEMOVERRIDE_MODULE=${PROJECT_NAME}
+)
 if(MSVC)
-    add_definitions(-D_USRDLL -D_CRT_SECURE_NO_DEPRECATE -D_CRT_NONSTDC_NO_DEPRECATE -DCOMPILER_MSVC -DCOMPILER_MSVC32)
+    add_definitions(-D_USRDLL
+        -D_CRT_SECURE_NO_DEPRECATE
+        -D_CRT_NONSTDC_NO_DEPRECATE
+        -DCOMPILER_MSVC
+        -DCOMPILER_MSVC32
+    )
     link_directories(../../lib/common/.
         ../../lib/public/.
     )
