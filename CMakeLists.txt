@@ -23,3 +23,4 @@ include(cmake/projectPreferences.cmake)
 
 add_subdirectory(src/game/client)
 add_subdirectory(src/game/missionchooser)
+add_subdirectory(src/game/server)
