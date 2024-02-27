@@ -23,7 +23,7 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_RELWITHDEBINFO "${CMAKE_RUNTIME_OUTPUT_DIRECT
 if(MSVC)
     # For Windows MSVC
     set(CMAKE_C_FLAGS                   "${CMAKE_C_FLAGS} /W4 /GF /GR /GS- /arch:SSE2 /fp:fast /MP /wd4710 /wd4820 /wd4514 /wd4986 /wd4530 /DWIN32 /D_WIN32 /D_WINDOWS")
-    set(CMAKE_CXX_FLAGS                 "${CMAKE_CXX_FLAGS} /W4 /GF /GR /GS- /arch:SSE2 /fp:fast /MP /wd4710 /wd4820 /wd4514 /wd4986 /wd4530 /DWIN32 /D_WINDOWS")
+    set(CMAKE_CXX_FLAGS                 "${CMAKE_CXX_FLAGS} /W4 /GF /GR /GS- /arch:SSE2 /fp:fast /MP /wd4710 /wd4820 /wd4514 /wd4986 /wd4530 /DWIN32 /D_WIN32 /D_WINDOWS")
     set(CMAKE_C_FLAGS_DEBUG             "/Od /Ob0 /Zi /Gm /RTC1 /MTd /DDEBUG /D_DEBUG")
     set(CMAKE_C_FLAGS_RELEASE           "/O2 /Ob2 /Oi /Ot /Gy /MT /DNDEBUG")
     set(CMAKE_C_FLAGS_MINSIZEREL        "/O1 /Ob1 /Oi /Ot /Gy /MT /DNDEBUG")
