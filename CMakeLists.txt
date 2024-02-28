@@ -24,3 +24,10 @@ include(cmake/projectPreferences.cmake)
 add_subdirectory(src/game/client)
 add_subdirectory(src/game/missionchooser)
 add_subdirectory(src/game/server)
+if(INCLUDE_STDSHADERS)
+    # Just so you know I'm not really sure how to use these properly *yet* for ensuring its functionality
+    # You're free to try and compile them but I do not guarantee nothing. Feel free to submit an PR to fix this.
+    # Probably you won't be able to compile these on a platform that's not Windows but we'll see later.
+    add_subdirectory(src/materialsystem/shaderlib)
+    #add_subdirectory(src/materialsystem/stdshaders)
+endif()

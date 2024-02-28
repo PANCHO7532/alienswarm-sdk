@@ -1380,7 +1380,7 @@ set(HEADERFILES ../shared/ammodef.h
     ./base_transmit_proxy.h
     ../../public/basehandle.h
     ./basetempentity.h
-#    ../../public/basetypes.h
+    ../../public/tier0/basetypes.h
     ../shared/beam_flags.h
     ../../public/tier1/bitbuf.h
     ../../public/bittools.h
@@ -1401,7 +1401,7 @@ set(HEADERFILES ../shared/ammodef.h
     ./coerciblevariant_t.h
     ../../public/vphysics/collision_set.h
     ../../public/Color.h
-#    ../../public/commonmacros.h
+    ../../public/tier0/commonmacros.h
     ../../public/mathlib/compressed_light_cube.h
     ../../public/mathlib/compressed_vector.h
     ../../public/const.h
