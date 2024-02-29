@@ -29,5 +29,5 @@ if(INCLUDE_STDSHADERS)
     # You're free to try and compile them but I do not guarantee nothing. Feel free to submit an PR to fix this.
     # Probably you won't be able to compile these on a platform that's not Windows but we'll see later.
     add_subdirectory(src/materialsystem/shaderlib)
-    #add_subdirectory(src/materialsystem/stdshaders)
+    add_subdirectory(src/materialsystem/stdshaders)
 endif()

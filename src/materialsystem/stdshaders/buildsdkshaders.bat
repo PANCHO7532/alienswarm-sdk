@@ -4,7 +4,14 @@ setlocal
 rem Use dynamic shaders to build .inc files only
 rem set dynamic_shaders=1
 rem == Setup path to nmake.exe, from vc 2005 common tools directory ==
-call "%VS80COMNTOOLS%vsvars32.bat"
+rem P7: Uncomment the ones that correspond to your system, or set up the direct path where vcvars32/64 or VsDevCmd is.
+rem call "%VS80COMNTOOLS%vsvars32.bat"
+rem call "%VS100COMMONTOOLS%vsvars32.bat"
+rem call "%VS100COMMONTOOLS%\..\..\VC\bin\vcvars32.bat"
+rem call "%VS120COMMONTOOLS%vcvars32.bat"
+rem call "%VS140COMMONTOOLS%vcvars32.bat"
+call C:\PROGRA~1\MICROS~1\2022\Community\Common7\Tools\VsDevCmd.bat
+
 
 rem ================================
 rem ==== MOD PATH CONFIGURATIONS ===
@@ -14,12 +21,12 @@ rem == Note that this path needs does not support long file/directory names ==
 rem == So instead of a path such as "C:\Program Files\Steam\steamapps\mymod" ==
 rem == you need to find the 8.3 abbreviation for the directory name using 'dir /x' ==
 rem == and set the directory to something like C:\PROGRA~2\Steam\steamapps\sourcemods\mymod ==
-set GAMEDIR=
+set GAMEDIR=C:\PROGRA~2\Steam\steamapps\common\ALIENS~1\mod_swarm
 
 rem == Set the relative path to steamapps\common\Alien Swarm\bin ==
 rem == As above, this path does not support long directory names or spaces ==
 rem == e.g. ..\..\..\..\..\PROGRA~2\Steam\steamapps\common\ALIENS~1\bin ==
-set SDKBINDIR=..\..\..\..\STEAME~1\steamapps\common\ALIENS~1\bin
+set SDKBINDIR=..\..\..\..\..\PROGRA~2\Steam\steamapps\common\ALIENS~1\bin
 
 rem ==  Set the Path to your mods root source code ==
 rem this should already be correct, accepts relative paths only!
