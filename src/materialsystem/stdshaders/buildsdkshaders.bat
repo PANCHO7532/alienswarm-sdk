@@ -5,12 +5,13 @@ rem Use dynamic shaders to build .inc files only
 rem set dynamic_shaders=1
 rem == Setup path to nmake.exe, from vc 2005 common tools directory ==
 rem P7: Uncomment the ones that correspond to your system, or set up the direct path where vcvars32/64 or VsDevCmd is.
-rem call "%VS80COMNTOOLS%vsvars32.bat"
-rem call "%VS100COMMONTOOLS%vsvars32.bat"
-rem call "%VS100COMMONTOOLS%\..\..\VC\bin\vcvars32.bat"
-rem call "%VS120COMMONTOOLS%vcvars32.bat"
-rem call "%VS140COMMONTOOLS%vcvars32.bat"
-call C:\PROGRA~1\MICROS~1\2022\Community\Common7\Tools\VsDevCmd.bat
+rem For more info on what you should do before executing this, please visit this page: https://developer.valvesoftware.com/w/index.php?title=Shader_Authoring
+call "%VS80COMNTOOLS%vsvars32.bat"
+rem call "%VS100COMNTOOLS%vsvars32.bat"
+rem call "%VS100COMNTOOLS%\..\..\VC\bin\vcvars32.bat"
+rem call "%VS120COMNTOOLS%vcvars32.bat"
+rem call "%VS140COMNTOOLS%vcvars32.bat"
+rem call C:\PROGRA~1\MICROS~1\2022\Community\Common7\Tools\VsDevCmd.bat
 
 
 rem ================================

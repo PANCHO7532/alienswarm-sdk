@@ -5,7 +5,7 @@
 #############################################################################
 ## Purpose: stdshader library, CMake Project                                #
 #############################################################################
-project(game_shader_dx9)
+project(stdshader_dx9)
 include_directories(../../common
     ../../public
     ../../public/tier0
@@ -400,7 +400,8 @@ set(SHADERSOURCE___PSH ./ShadowModel.psh
 # The only purpose this has is to match as much as possible the original project file so you shouldn't rely on this for ANYTHING.
 set(LINKLIBRARIES ../../lib/public/interfaces.lib
     ../../lib/public/mathlib.lib
-    ../../lib/public/shaderlib.lib
+# Shaderlib isn't compiled by default and will throw an error when generating the project. Since we eventually will remove this, it's no harm if we skip it for now
+#    ../../lib/public/shaderlib.lib
     ../../lib/public/tier0.lib
     ../../lib/public/tier1.lib
     ../../lib/public/vstdlib.lib
@@ -429,7 +430,7 @@ source_group("Shader Source\\psh" FILES ${SHADERSOURCE___PSH})
 source_group("Shader Source\\vsh" FILES ${SHADERSOURCE___VSH})
 source_group("" FILES ${SHADERTOOLS})
 
-add_library(${PROJECT_NAME} SHARED ${SOURCEFILES}
+add_library(game_shader_dx9 SHARED ${SOURCEFILES}
     ${HEADERFILES}
     ${SHADERSOURCE}
     ${SHADERSOURCE___FXC}
@@ -438,7 +439,7 @@ add_library(${PROJECT_NAME} SHARED ${SOURCEFILES}
     ${LINKLIBRARIES}
     ${SHADERTOOLS}
 )
-target_link_libraries(${PROJECT_NAME}
+target_link_libraries(game_shader_dx9
     d3dx9
     interfaces
     mathlib
@@ -450,8 +451,8 @@ target_link_libraries(${PROJECT_NAME}
 if(MSVC)
     if(MSVC_VERSION GREATER 1800)
         # Include legacy definitions if we are on Visual Studio 2015 or superior.
-        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" \"legacy_stdio_definitions.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmt /NODEFAULTLIB:libcmtd")
+        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" \"legacy_stdio_definitions.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
     else()
-        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmt /NODEFAULTLIB:libcmtd")
+        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
     endif()
 endif()
