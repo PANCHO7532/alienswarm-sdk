@@ -430,7 +430,7 @@ source_group("Shader Source\\psh" FILES ${SHADERSOURCE___PSH})
 source_group("Shader Source\\vsh" FILES ${SHADERSOURCE___VSH})
 source_group("" FILES ${SHADERTOOLS})
 
-add_library(game_shader_dx9 SHARED ${SOURCEFILES}
+add_library(${PROJECT_NAME} SHARED ${SOURCEFILES}
     ${HEADERFILES}
     ${SHADERSOURCE}
     ${SHADERSOURCE___FXC}
@@ -439,7 +439,7 @@ add_library(game_shader_dx9 SHARED ${SOURCEFILES}
     ${LINKLIBRARIES}
     ${SHADERTOOLS}
 )
-target_link_libraries(game_shader_dx9
+target_link_libraries(${PROJECT_NAME}
     d3dx9
     interfaces
     mathlib
@@ -451,8 +451,14 @@ target_link_libraries(game_shader_dx9
 if(MSVC)
     if(MSVC_VERSION GREATER 1800)
         # Include legacy definitions if we are on Visual Studio 2015 or superior.
-        set_target_properties(game_shader_dx9 PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" \"legacy_stdio_definitions.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+        set_target_properties(${PROJECT_NAME} PROPERTIES
+            LINK_FLAGS "\"winmm.lib\" \"version.lib\" \"legacy_stdio_definitions.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd"
+            OUTPUT_NAME "game_shader_dx9"
+        )
     else()
-        set_target_properties(game_shader_dx9 PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+        set_target_properties(${PROJECT_NAME} PROPERTIES
+            LINK_FLAGS "\"winmm.lib\" \"version.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd"
+            OUTPUT_NAME "game_shader_dx9"
+        )
     endif()
 endif()

@@ -51,6 +51,7 @@ server.dir/
 shaderlib.dir/
 stdshaders.dir/
 stdshader_dx9.dir/
+game_shader_dx9.dir/
 
 # stdshader stuff
 src/materialsystem/stdshaders/file*.txt
@@ -59,12 +60,3 @@ src/materialsystem/stdshaders/uni*.txt
 src/materialsystem/stdshaders/vcs*.txt
 src/materialsystem/stdshaders/makefile.*
 src/materialsystem/stdshaders/NIL
-# This is the stuff that we'll need later to compile game_shader_dx9.dll correctly, but for now we'll exclude it.
-src/materialsystem/stdshaders/fxctmp9/
-src/materialsystem/stdshaders/fxctmp9_tmp/
-src/materialsystem/stdshaders/pshtmp9/
-src/materialsystem/stdshaders/vshtmp9/
-src/materialsystem/stdshaders/shaders/
-src/materialsystem/stdshaders/shaders/fxc/
-src/materialsystem/stdshaders/shaders/psh/
-src/materialsystem/stdshaders/shaders/vsh/
