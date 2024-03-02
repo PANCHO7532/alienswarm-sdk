@@ -451,8 +451,8 @@ target_link_libraries(game_shader_dx9
 if(MSVC)
     if(MSVC_VERSION GREATER 1800)
         # Include legacy definitions if we are on Visual Studio 2015 or superior.
-        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" \"legacy_stdio_definitions.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+        set_target_properties(game_shader_dx9 PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" \"legacy_stdio_definitions.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
     else()
-        set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
+        set_target_properties(game_shader_dx9 PROPERTIES LINK_FLAGS "\"winmm.lib\" \"version.lib\" /SAFESEH:NO /LARGEADDRESSAWARE /SUBSYSTEM:WINDOWS /MANIFEST:NO /NODEFAULTLIB:libc /NODEFAULTLIB:libcd /NODEFAULTLIB:libcmtd")
     endif()
 endif()
