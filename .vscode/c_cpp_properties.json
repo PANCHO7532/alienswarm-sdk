@@ -41,7 +41,7 @@
                 "COMPILER_MSVC32",
                 "DNDEBUG"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "cl.exe",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
@@ -88,7 +88,7 @@
                 "_DEBUG",
                 "DEBUG"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "cl.exe",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
@@ -208,7 +208,7 @@
                 "COMPILER_MSVC32",
                 "NDEBUG"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "cl.exe",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
@@ -238,7 +238,7 @@
                 "_DEBUG",
                 "DEBUG"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "cl.exe",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
@@ -278,7 +278,7 @@
                 "COMPILER_MSVC32",
                 "NDEBUG"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "cl.exe",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
@@ -319,7 +319,7 @@
                 "_DEBUG",
                 "DEBUG"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "cl.exe",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
