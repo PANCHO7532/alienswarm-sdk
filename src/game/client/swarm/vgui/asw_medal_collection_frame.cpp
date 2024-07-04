@@ -7,9 +7,9 @@
 #include <vgui_controls/Button.h>
 #include <vgui_controls/TextImage.h>
 #include "convar.h"
-#include "MedalCollectionPanel.h"
+#include "medalcollectionpanel.h"
 #include "asw_medal_collection_frame.h"
-#include "SwarmopediaPanel.h"
+#include "swarmopediapanel.h"
 #include <vgui/isurface.h>
 #include "ienginevgui.h"
 

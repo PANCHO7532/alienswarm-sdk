@@ -1,4 +1,4 @@
-//========== Copyright © 2008, Valve Corporation, All rights reserved. ==========
+//========== Copyright ï¿½ 2008, Valve Corporation, All rights reserved. ==========
 //
 // Purpose:
 //
@@ -17,7 +17,7 @@
 #include "c_world.h"
 #include "renderparm.h"
 #include "shaderapi/ishaderapi.h"
-#include "ProxyEntity.h"
+#include "proxyentity.h"
 #include "imaterialproxydict.h"
 #include "model_types.h"
 

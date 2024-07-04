@@ -1,6 +1,6 @@
 #include "cbase.h"
 
-#include "ObjectiveMapMarkPanel.h"
+#include "objectivemapmarkpanel.h"
 #include "vgui_controls/AnimationController.h"
 #include <vgui/ISurface.h>
 

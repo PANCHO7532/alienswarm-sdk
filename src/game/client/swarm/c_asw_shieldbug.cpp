@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "C_ASW_Shieldbug.h"
+#include "c_asw_shieldbug.h"
 #include "engine/IVDebugOverlay.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 

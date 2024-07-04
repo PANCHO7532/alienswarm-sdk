@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -316,7 +316,7 @@ public:
 };
 #pragma warning( default : 4035 )
 
-#include "eventmasks.h" 
-#include "eventmodes.h" 
+#include "EventMasks.h" 
+#include "EventModes.h" 
 
 #endif // P4PERFORMANCECOUNTERS_H

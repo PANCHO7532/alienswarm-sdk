@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,12 +10,12 @@
 #include "windows.h"
 #endif
 
-#include "VAddons.h"
-#include "VGenericPanelList.h"
+#include "vaddons.h"
+#include "vgenericpanellist.h"
 #include "KeyValues.h"
-#include "VFooterPanel.h"
-#include "EngineInterface.h"
-#include "FileSystem.h"
+#include "vfooterpanel.h"
+#include "engineinterface.h"
+#include "filesystem.h"
 #include "fmtstr.h"
 #include "vgui/ISurface.h"
 #include "vgui/IBorder.h"
@@ -27,7 +27,7 @@
 #include "vgui_controls/ProgressBar.h"
 #include "vgui_controls/Label.h"
 #include "vgui_controls/TextImage.h"
-#include "UtlBuffer.h"
+#include "utlbuffer.h"
 #include "vpklib/packedstore.h"
 #include "tier2/fileutils.h"
 #include "nb_header_footer.h"

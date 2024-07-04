@@ -9,7 +9,7 @@
 #include "materialsystem/IMaterial.h"
 #include <KeyValues.h>
 #include "materialsystem/IMaterialVar.h"
-#include "FunctionProxy.h"
+#include "functionproxy.h"
 
 #include "imaterialproxydict.h"
 // memdbgon must be the last include file in a .cpp file!!!

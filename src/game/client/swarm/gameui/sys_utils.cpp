@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,8 +6,8 @@
 //=============================================================================//
 
 #include "winlite.h"
-#include "Sys_Utils.h"
-#include "EngineInterface.h"
+#include "sys_utils.h"
+#include "engineinterface.h"
 
 #if defined( _X360 )
 #include "xbox/xbox_win32stubs.h"

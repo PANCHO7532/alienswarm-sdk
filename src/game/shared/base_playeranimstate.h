@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -13,7 +13,7 @@
 
 #include "iplayeranimstate.h"
 #include "studio.h"
-#include "sequence_transitioner.h"
+#include "sequence_Transitioner.h"
 
 #ifdef CLIENT_DLL
 	class C_BaseAnimatingOverlay;

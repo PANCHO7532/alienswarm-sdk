@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -16,7 +16,7 @@
 
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "tier0/vprof.h"
-#include "CollisionUtils.h"
+#include "collisionutils.h"
 #include "precache_register.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

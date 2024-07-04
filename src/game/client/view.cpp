@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -17,7 +17,7 @@
 #include "c_te_legacytempents.h"
 #include "cl_mat_stub.h"
 #include "tier0/vprof.h"
-#include "IClientVehicle.h"
+#include "iclientvehicle.h"
 #include "engine/IEngineTrace.h"
 #include "mathlib/vmatrix.h"
 #include "rendertexture.h"
@@ -35,7 +35,7 @@
 #include "materialsystem/itexture.h"
 #include "toolframework_client.h"
 #include "tier0/icommandline.h"
-#include "IEngineVGui.h"
+#include "ienginevgui.h"
 #include <vgui_controls/Controls.h>
 #include <vgui/ISurface.h>
 #include "ScreenSpaceEffects.h"

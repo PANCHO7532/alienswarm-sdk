@@ -1,25 +1,25 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VMainMenu.h"
-#include "EngineInterface.h"
-#include "VFooterPanel.h"
-#include "VHybridButton.h"
-#include "VFlyoutMenu.h"
-#include "vGenericConfirmation.h"
-#include "VQuickJoin.h"
+#include "vmainmenu.h"
+#include "engineinterface.h"
+#include "vfooterpanel.h"
+#include "vhybridbutton.h"
+#include "vflyoutmenu.h"
+#include "vgenericconfirmation.h"
+#include "vquickjoin.h"
 #include "basemodpanel.h"
-#include "UIGameData.h"
-#include "VGameSettings.h"
-#include "VSteamCloudConfirmation.h"
+#include "uigamedata.h"
+#include "vgamesettings.h"
+#include "vsteamcloudconfirmation.h"
 #include "vaddonassociation.h"
 
-#include "VSignInDialog.h"
-#include "VGuiSystemModuleLoader.h"
-#include "VAttractScreen.h"
+#include "vsignindialog.h"
+#include "vguisystemmoduleloader.h"
+#include "vattractscreen.h"
 #include "gamemodes.h"
 
 #include "vgui/ILocalize.h"

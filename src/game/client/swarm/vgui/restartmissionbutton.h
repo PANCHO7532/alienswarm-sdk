@@ -6,7 +6,7 @@
 
 #include <vgui/VGUI.h>
 #include <vgui_controls/Button.h>
-#include "ImageButton.h"
+#include "imagebutton.h"
 
 // button shown after a mission ends.  Can be clicked to retry the mission
 

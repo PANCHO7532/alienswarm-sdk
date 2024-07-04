@@ -4,9 +4,9 @@
 #pragma once
 #endif
 
-#include "Utlvector.h"
-#include "UtlSortvector.h"
-#include "ChunkFile.h"
+#include "utlvector.h"
+#include "UtlSortVector.h"
+#include "chunkfile.h"
 #include "RoomTemplate.h"
 #include "tilegen_core.h"
 #include "missionchooser/iasw_spawn_selection.h"

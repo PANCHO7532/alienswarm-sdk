@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "c_AI_BaseNPC.h"
+#include "c_ai_basenpc.h"
 #include "soundenvelope.h"
 #include "iasw_client_aim_target.h"
 #include "c_asw_alien.h"

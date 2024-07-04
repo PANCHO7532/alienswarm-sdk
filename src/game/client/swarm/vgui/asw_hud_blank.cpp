@@ -24,7 +24,7 @@ using namespace vgui;
 #include "asw_marine_profile.h"
 #include "c_asw_marine_resource.h"
 
-#include "ConVar.h"
+#include "convar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

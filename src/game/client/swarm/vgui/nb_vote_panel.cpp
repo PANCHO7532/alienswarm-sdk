@@ -8,7 +8,7 @@
 #include "nb_button.h"
 #include <vgui/ILocalize.h>
 #include <vgui/IVGui.h>
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include "asw_gamerules.h"
 #include "vgui_controls/AnimationController.h"
 #include "c_asw_player.h"

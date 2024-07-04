@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "C_ASW_Computer_Area.h"
+#include "c_asw_computer_area.h"
 #include "c_asw_marine.h"
 #include <vgui/ISurface.h>
 #include <vgui_controls/Panel.h>

@@ -4,7 +4,7 @@
 #pragma once
 #endif
 
-#include "Utlvector.h"
+#include "utlvector.h"
 #include "tier1/UtlSortVector.h"
 
 class CRoomTemplate;

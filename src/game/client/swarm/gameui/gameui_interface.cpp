@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Implements all the functions exported by the GameUI dll
 //
@@ -19,29 +19,29 @@
 #undef SendMessage
 #endif
 																
-#include "FileSystem.h"
-#include "GameUI_Interface.h"
-#include "Sys_Utils.h"
+#include "filesystem.h"
+#include "gameui_interface.h"
+#include "sys_utils.h"
 #include "string.h"
 #include "tier0/icommandline.h"
 
 // interface to engine
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
-#include "VGuiSystemModuleLoader.h"
+#include "vguisystemmoduleloader.h"
 #include "bitmap/TGALoader.h"
 
-#include "GameConsole.h"
-#include "LoadingDialog.h"
-#include "CDKeyEntryDialog.h"
-#include "ModInfo.h"
+#include "gameconsole.h"
+#include "loadingdialog.h"
+#include "cdkeyentrydialog.h"
+#include "modinfo.h"
 #include "game/client/IGameClientExports.h"
 #include "materialsystem/imaterialsystem.h"
 #include "matchmaking/imatchframework.h"
 #include "ixboxsystem.h"
 #include "iachievementmgr.h"
 #include "IGameUIFuncs.h"
-#include "IEngineVGUI.h"
+#include "ienginevgui.h"
 
 // vgui2 interface
 // note that GameUI project uses ..\vgui2\include, not ..\utils\vgui\include
@@ -73,7 +73,7 @@ class IMatchExtSwarm *g_pMatchExtSwarm = NULL;
 
 #else
 
-#include "BasePanel.h"
+#include "basepanel.h"
 typedef CBasePanel UI_BASEMOD_PANEL_CLASS;
 inline UI_BASEMOD_PANEL_CLASS & GetUiBaseModPanelClass() { return *BasePanel(); }
 inline UI_BASEMOD_PANEL_CLASS & ConstructUiBaseModPanelClass() { return *BasePanelSingleton(); }

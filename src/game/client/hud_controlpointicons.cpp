@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "hud_controlpointicons.h"
 #include "teamplayroundbased_gamerules.h"
-#include "IClientMode.h"
+#include "iclientmode.h"
 #include "c_team_objectiveresource.h"
 #include "c_playerresource.h"
 #include "c_baseplayer.h"

@@ -1,11 +1,11 @@
 #include "cbase.h"
-#include "MedalCollectionPanel.h"
+#include "medalcollectionpanel.h"
 #include "vgui_controls/ImagePanel.h"
 #include "vgui_controls/Label.h"
 #include <vgui_controls/ImagePanel.h>
 #include "asw_medal_store.h"
-#include "MedalPanel.h"
-#include "BriefingTooltip.h"
+#include "medalpanel.h"
+#include "briefingtooltip.h"
 #include "c_asw_player.h"
 #include <vgui/ISurface.h>
 #include <vgui_controls/Frame.h>

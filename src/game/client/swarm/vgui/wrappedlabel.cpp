@@ -1,7 +1,7 @@
 
 
 #include "cbase.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include <KeyValues.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

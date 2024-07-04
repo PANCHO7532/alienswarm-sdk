@@ -1,14 +1,14 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VInGameKickPlayerList.h"
-#include "VFooterPanel.h"
-#include "EngineInterface.h"
+#include "vingamekickplayerlist.h"
+#include "vfooterpanel.h"
+#include "engineinterface.h"
 #include "gameui_util.h"
-#include "VHybridButton.h"
+#include "vhybridbutton.h"
 #include "vgui/ILocalize.h"
 #include "game/client/IGameClientExports.h"
 

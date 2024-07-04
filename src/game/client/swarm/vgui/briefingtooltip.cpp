@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "BriefingTooltip.h"
+#include "briefingtooltip.h"
 #include "controller_focus.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

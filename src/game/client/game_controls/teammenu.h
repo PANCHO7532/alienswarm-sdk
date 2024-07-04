@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -17,7 +17,7 @@
 #include <game/client/iviewport.h>
 
 #include <vgui/KeyCode.h>
-#include <UtlVector.h>
+#include <utlvector.h>
 
 namespace vgui
 {

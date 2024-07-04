@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A blood spray effect, like a big exit wound, used when people are
 //			violently impaled, skewered, eviscerated, etc.
@@ -7,7 +7,7 @@
 
 #include "cbase.h"
 #include "precache_register.h"
-#include "FX_Sparks.h"
+#include "fx_sparks.h"
 #include "iefx.h"
 #include "c_te_effect_dispatch.h"
 #include "particles_ez.h"
@@ -19,7 +19,7 @@
 #include "fx.h"
 #include "fx_blood.h"
 #include "effect_color_tables.h"
-#include "particle_simple3D.h"
+#include "particle_simple3d.h"
 #include "particle_parse.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

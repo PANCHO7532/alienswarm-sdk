@@ -1,12 +1,12 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 
-#include "CvarTextEntry.h"
-#include "EngineInterface.h"
+#include "cvartextentry.h"
+#include "engineinterface.h"
 #include <vgui/IVGui.h>
 #include "IGameUIFuncs.h"
 #include "tier1/KeyValues.h"

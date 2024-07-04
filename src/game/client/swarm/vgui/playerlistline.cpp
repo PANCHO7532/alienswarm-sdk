@@ -9,8 +9,8 @@
 #include "c_asw_marine.h"
 #include "c_asw_campaign_save.h"
 #include "c_asw_game_resource.h"
-#include "PlayerListPanel.h"
-#include "PlayerListLine.h"
+#include "playerlistpanel.h"
+#include "playerlistline.h"
 #include "c_playerresource.h"
 #include <vgui/ILocalize.h>
 

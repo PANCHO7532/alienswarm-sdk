@@ -2,10 +2,10 @@
 #include "vgui/ivgui.h"
 #include <vgui/vgui.h>
 #include <vgui_controls/ListPanel.h>
-#include "SwarmopediaTopics.h"
-#include "SwarmopediaPanel.h"
+#include "swarmopediatopics.h"
+#include "swarmopediapanel.h"
 #include <KeyValues.h>
-#include "FileSystem.h"
+#include "filesystem.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

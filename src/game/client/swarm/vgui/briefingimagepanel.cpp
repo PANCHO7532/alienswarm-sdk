@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "BriefingImagePanel.h"
+#include "briefingimagepanel.h"
 #include "asw_gamerules.h"
 #include "c_asw_player.h"
 #include "vgui_controls/Frame.h"

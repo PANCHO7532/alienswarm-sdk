@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "FadeInPanel.h"
+#include "fadeinpanel.h"
 #include <vgui_controls/ImagePanel.h>
 #include "vgui_controls/AnimationController.h"
 #include "asw_gamerules.h"

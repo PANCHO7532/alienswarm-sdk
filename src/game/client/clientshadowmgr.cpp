@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -81,11 +81,11 @@
 #include "materialsystem/IMaterial.h"
 #include "materialsystem/IMesh.h"
 #include "materialsystem/ITexture.h"
-#include "BSPTreeData.h"
+#include "bsptreedata.h"
 #include "utlmultilist.h"
-#include "CollisionUtils.h"
+#include "collisionutils.h"
 #include "iviewrender.h"
-#include "IVRenderView.h"
+#include "ivrenderview.h"
 #include "tier0/vprof.h"
 #include "engine/ivmodelinfo.h"
 #include "view_shared.h"

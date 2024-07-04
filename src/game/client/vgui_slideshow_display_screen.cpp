@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #include "cbase.h"
 #include "c_vguiscreen.h"
 #include "vgui_controls/Label.h"
-#include "vgui_BitmapPanel.h"
+#include "vgui_bitmappanel.h"
 #include <vgui/IVGUI.h>
 #include "c_slideshow_display.h"
 #include "ienginevgui.h"

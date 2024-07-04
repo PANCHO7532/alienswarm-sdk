@@ -1,21 +1,21 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VVideo.h"
-#include "VFooterPanel.h"
-#include "VDropDownMenu.h"
-#include "VSliderControl.h"
-#include "VHybridButton.h"
-#include "EngineInterface.h"
+#include "vvideo.h"
+#include "vfooterpanel.h"
+#include "vdropdownmenu.h"
+#include "vslidercontrol.h"
+#include "vhybridbutton.h"
+#include "engineinterface.h"
 #include "IGameUIFuncs.h"
 #include "gameui_util.h"
 #include "vgui/ISurface.h"
 #include "modes.h"
 #include "videocfg/videocfg.h"
-#include "VGenericConfirmation.h"
+#include "vgenericconfirmation.h"
 #include "nb_header_footer.h"
 #include "materialsystem/materialsystem_config.h"
 #include "cdll_util.h"

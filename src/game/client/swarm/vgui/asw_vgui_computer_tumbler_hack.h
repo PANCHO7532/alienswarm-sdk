@@ -9,7 +9,7 @@
 #include "vgui_controls\ComboBox.h"
 #include "vgui/IScheme.h"
 #include "asw_vgui_ingame_panel.h"
-#include "ImageButton.h"
+#include "imagebutton.h"
 
 class C_ASW_Hack_Computer;
 class CASW_VGUI_Computer_Tumbler_Hack;

@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include <vgui_controls/Label.h>
 #include <vgui_controls/TextImage.h>
-#include "FontTestPanel.h"
+#include "fonttestpanel.h"
 #include "iclientmode.h"
 #include "vgui/ISurface.h"
 

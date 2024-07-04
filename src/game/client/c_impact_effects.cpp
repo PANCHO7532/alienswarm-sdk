@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 #include "fx.h"
 #include "fx_sparks.h"
 #include "precache_register.h"
-#include "particle_simple3D.h"
+#include "particle_simple3d.h"
 #include "decals.h"
 #include "engine/IEngineSound.h"
 #include "c_te_particlesystem.h"

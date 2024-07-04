@@ -12,7 +12,7 @@
 #include <vgui/ILocalize.h>
 
 #include <filesystem.h>
-#include <keyvalues.h>
+#include <KeyValues.h>
 
 #include "asw_hudelement.h"
 #include "c_asw_marine.h"
@@ -23,7 +23,7 @@
 #include "c_asw_door.h"
 #include "c_asw_use_area.h"
 
-#include "ConVar.h"
+#include "convar.h"
 #include "tier0/vprof.h"
 #include "idebugoverlaypanel.h"
 #include "engine/IVDebugOverlay.h"

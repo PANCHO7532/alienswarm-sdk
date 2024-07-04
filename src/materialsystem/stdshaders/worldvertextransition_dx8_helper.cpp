@@ -1,11 +1,11 @@
-//========= Copyright © 1996-2002, Valve LLC, All rights reserved. ============
+//========= Copyright ï¿½ 1996-2002, Valve LLC, All rights reserved. ============
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================
 
-#include "worldvertexTransition_DX8_helper.h"
+#include "worldvertextransition_dx8_helper.h"
 #include "BaseVSShader.h"
 
 #include "worldvertextransition.inc"

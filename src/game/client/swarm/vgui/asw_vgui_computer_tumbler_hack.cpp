@@ -10,9 +10,9 @@
 #include <vgui_controls/ImagePanel.h>
 #include "vgui_controls/TextImage.h"
 #include "vgui/ILocalize.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include <filesystem.h>
-#include <keyvalues.h>
+#include <KeyValues.h>
 #include <vgui_controls/ImagePanel.h>
 #include "controller_focus.h"
 

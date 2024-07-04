@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 #include "precache_register.h"
-#include "FX_Sparks.h"
+#include "fx_sparks.h"
 #include "iefx.h"
 #include "c_te_effect_dispatch.h"
 #include "particles_ez.h"

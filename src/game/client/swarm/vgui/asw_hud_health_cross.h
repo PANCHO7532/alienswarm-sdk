@@ -4,7 +4,7 @@
 #pragma once
 #endif
 
-#include "vgui_BasePanel.h"
+#include "vgui_basepanel.h"
 #include <vgui_controls/Panel.h>
 #include <vgui_controls/AnimationController.h>
 

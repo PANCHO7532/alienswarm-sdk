@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -7,11 +7,11 @@
 #include <ctype.h>
 #include "basemodframe.h"
 #include "basemodpanel.h"
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
-#include "VFooterPanel.h"
-#include "VGenericConfirmation.h"
-#include "VFlyoutMenu.h"
+#include "vfooterpanel.h"
+#include "vgenericconfirmation.h"
+#include "vflyoutmenu.h"
 #include "IGameUIFuncs.h"
 
 // vgui controls

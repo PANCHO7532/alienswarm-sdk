@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 #endif
 
 #include "particlemgr.h"
-#include "ParticleSphereRenderer.h"
+#include "particlesphererenderer.h"
 #include "smartptr.h"
 
 

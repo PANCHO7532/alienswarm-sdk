@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,10 +10,10 @@
 #endif
 #include "tier1/fmtstr.h"
 #include "vgui/ILocalize.h"
-#include "EngineInterface.h"
-#include "VHybridButton.h"
-#include "VDropDownMenu.h"
-#include "VFlyoutMenu.h"
+#include "engineinterface.h"
+#include "vhybridbutton.h"
+#include "vdropdownmenu.h"
+#include "vflyoutmenu.h"
 #include "vgamesettings.h"
 
 #include "vfoundpublicgames.h"

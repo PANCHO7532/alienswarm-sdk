@@ -2,8 +2,8 @@
 #include <vgui_controls/ImagePanel.h>
 #include "vgui_controls/AnimationController.h"
 #include <vgui_controls/ImagePanel.h>
-#include "BriefingTooltip.h"
-#include "MedalPanel.h"
+#include "briefingtooltip.h"
+#include "medalpanel.h"
 #include "controller_focus.h"
 #include "asw_medals_shared.h"
 #include "asw_gamerules.h"

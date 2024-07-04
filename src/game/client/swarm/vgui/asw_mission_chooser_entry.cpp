@@ -7,7 +7,7 @@
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/Button.h>
 #include "KeyValues.h"
-#include "FileSystem.h"
+#include "filesystem.h"
 #include <vgui_controls/Panel.h>
 #include <vgui/isurface.h>
 #include "asw_mission_chooser_entry.h"

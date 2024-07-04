@@ -1,12 +1,12 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "UIGameData.h"
-#include "UIAvatarImage.h"
-#include "EngineInterface.h"
+#include "uigamedata.h"
+#include "uiavatarimage.h"
+#include "engineinterface.h"
 #include "vgui/ISurface.h"
 
 #ifndef _X360

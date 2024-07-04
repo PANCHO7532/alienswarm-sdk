@@ -1,13 +1,13 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
 //===========================================================================//
 
 
-#include "OptionsSubKeyboard.h"
-#include "EngineInterface.h"
-#include "VControlsListPanel.h"
+#include "optionssubkeyboard.h"
+#include "engineinterface.h"
+#include "vcontrolslistpanel.h"
 
 #include "vgui_controls/Button.h"
 #include "vgui_controls/Label.h"
@@ -25,9 +25,9 @@
 #include "vgui/ISystem.h"
 #include "vgui/IInput.h"
 
-#include "FileSystem.h"
+#include "filesystem.h"
 #include "tier1/UtlBuffer.h"
-#include "igameuifuncs.h"
+#include "IGameUIFuncs.h"
 #include "vstdlib/IKeyValuesSystem.h"
 #include "tier2/tier2.h"
 #include "inputsystem/iinputsystem.h"

@@ -1,12 +1,12 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 
-#include "CommandCheckButton.h"
-#include "EngineInterface.h"
+#include "commandcheckbutton.h"
+#include "engineinterface.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

@@ -1,11 +1,11 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //===========================================================================//
 #include "cbase.h"
-#include "IViewRender.h"
+#include "iviewrender.h"
 #include "precache_register.h"
 #include "studio.h"
 #include "bone_setup.h"

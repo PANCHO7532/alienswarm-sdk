@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -19,7 +19,7 @@
 #include "vgui_controls/AnimationController.h"
 #include "vgui_controls/circularprogressbar.h"
 #include <vgui/isurface.h>
-#include "iconpanel.h"
+#include "IconPanel.h"
 
 #define PULSE_TIME_PER_ICON		1.5f
 

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Client side view model implementation. Responsible for drawing
 //			the view model.
@@ -13,7 +13,7 @@
 #endif
 
 #include "c_baseanimating.h"
-#include "UtlVector.h"
+#include "utlvector.h"
 #include "baseviewmodel_shared.h"
 
 

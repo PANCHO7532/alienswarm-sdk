@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,8 +9,8 @@
 
 #include <vgui/KeyCode.h>
 
-#include "CvarTextEntry.h"
-#include "TextEntryBox.h"
+#include "cvartextentry.h"
+#include "textentrybox.h"
 #include <vgui_controls/TextEntry.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

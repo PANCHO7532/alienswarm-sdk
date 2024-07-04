@@ -17,7 +17,7 @@
 #include "KeyValues.h"
 #include "props.h"
 #include "RagdollBoogie.h"
-#include "AI_Criteria.h"
+#include "ai_criteria.h"
 #include "ragdoll_shared.h"
 #include "hierarchy.h"
 

@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -13,10 +13,10 @@
 #pragma once
 #endif
 
-#include "IGameSystem.h"
-#include "IClientEntityInternal.h"
+#include "igamesystem.h"
+#include "icliententityinternal.h"
 #include "engine/ishadowmgr.h"
-#include "IVRenderView.h"
+#include "ivrenderview.h"
 #include "toolframework/IToolEntity.h"
 
 //-----------------------------------------------------------------------------

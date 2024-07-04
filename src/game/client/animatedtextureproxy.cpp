@@ -1,11 +1,11 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "BaseAnimatedTextureProxy.h"
+#include "baseanimatedtextureproxy.h"
 
 #include "imaterialproxydict.h"
 // memdbgon must be the last include file in a .cpp file!!!

@@ -12,7 +12,7 @@
 #include "view.h"
 #include "vgui_controls/controls.h"
 #include "vgui/ISurface.h"
-#include "IVRenderView.h"
+#include "ivrenderview.h"
 
 
 

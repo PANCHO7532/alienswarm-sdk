@@ -1,14 +1,14 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "EngineInterface.h"
-#include "VGenericPanelList.h"
-#include "IAchievementMgr.h"
+#include "engineinterface.h"
+#include "vgenericpanellist.h"
+#include "iachievementmgr.h"
 #include "KeyValues.h"
-#include "VFooterPanel.h"
+#include "vfooterpanel.h"
 #include "fmtstr.h"
 
 #include "vgui/IBorder.h"
@@ -21,10 +21,10 @@
 #include "vgui_controls/Label.h"
 #include "vgui_controls/TextImage.h"
 
-#include "FileSystem.h"
+#include "filesystem.h"
 #include "cdll_util.h"
 #include "vgui/ISurface.h"
-#include "VAchievements.h"
+#include "vachievements.h"
 //#include "asw_achievements.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

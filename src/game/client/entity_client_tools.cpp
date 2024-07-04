@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -7,8 +7,8 @@
 #include "cbase.h"
 #include "toolframework/itoolentity.h"
 #include "tier1/KeyValues.h"
-#include "sprite.h"
-#include "enginesprite.h"
+#include "Sprite.h"
+#include "engineSprite.h"
 #include "beamdraw.h"
 #include "toolframework_client.h"
 #include "particles/particles.h"

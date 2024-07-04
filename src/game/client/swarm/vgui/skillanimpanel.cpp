@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "SkillAnimPanel.h"
+#include "skillanimpanel.h"
 #include "vgui/isurface.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

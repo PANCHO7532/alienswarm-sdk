@@ -1,7 +1,7 @@
 #ifndef __QUICKJOIN_GROUPS_H__
 #define __QUICKJOIN_GROUPS_H__
 
-#include "VQuickJoin.h"
+#include "vquickjoin.h"
 
 namespace BaseModUI
 {

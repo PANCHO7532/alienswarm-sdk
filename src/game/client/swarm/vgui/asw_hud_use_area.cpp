@@ -11,7 +11,7 @@
 #include <vgui_controls/AnimationController.h>
 #include <vgui/ILocalize.h>
 #include <filesystem.h>
-#include <keyvalues.h>
+#include <KeyValues.h>
 #include "hud_numericdisplay.h"
 #include "c_asw_player.h"
 #include "c_asw_marine.h"
@@ -30,7 +30,7 @@
 #include "clientmode_asw.h"
 #include "asw_gamerules.h"
 
-#include "ConVar.h"
+#include "convar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

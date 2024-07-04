@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: TrackIR handling function
 //
@@ -45,7 +45,7 @@
 #include "tier0/memdbgon.h"
 
 #if !defined( _X360 )
-#include "npsclient.h"
+#include "NPSClient.h"
 
 #define TIR_MAX_VALUE   	    16383
 

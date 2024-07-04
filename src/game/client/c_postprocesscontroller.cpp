@@ -1,10 +1,10 @@
-//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Purpose: stores map postprocess params
 //
 //=============================================================================
 #include "cbase.h"
-#include "C_PostProcessController.h"
+#include "c_postprocesscontroller.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

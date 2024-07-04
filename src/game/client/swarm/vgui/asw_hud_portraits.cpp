@@ -24,7 +24,7 @@ using namespace vgui;
 
 #include "vguimatsurface/imatsystemsurface.h"
 
-#include "ConVar.h"
+#include "convar.h"
 #include "tier0/vprof.h"
 
 #include "asw_hud_portraits.h"

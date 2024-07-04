@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2001, Valve LLC, All rights reserved. ============
+//========= Copyright ï¿½ 1996-2001, Valve LLC, All rights reserved. ============
 //
 // Purpose: 
 //
@@ -13,7 +13,7 @@
 #include "prediction_private.h"
 #include "tier0/vprof.h"
 #include "con_nprint.h"
-#include "IClientVehicle.h"
+#include "iclientvehicle.h"
 #include "asw_movedata.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

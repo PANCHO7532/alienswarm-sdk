@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "vgui_BasePanel.h"
+#include "vgui_basepanel.h"
 #include <KeyValues.h>
 #include <vgui/IScheme.h>
 #include <vgui/IVGui.h>

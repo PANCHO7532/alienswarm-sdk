@@ -1,7 +1,7 @@
 //========== Copyright (c) Valve Corporation, All rights reserved. ==========//
 
 #define HDRTYPE HDR_TYPE_NONE
-#include "common_ps_Fxc.h"
+#include "common_ps_fxc.h"
 
 sampler TexSampler	: register( s0 );
 

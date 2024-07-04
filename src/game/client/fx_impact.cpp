@@ -1,6 +1,6 @@
 
 
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 #include "cbase.h"
 #include "decals.h"
 #include "materialsystem/IMaterialVar.h"
-#include "ieffects.h"
+#include "IEffects.h"
 #include "fx.h"
 #include "fx_impact.h"
 #include "view.h"

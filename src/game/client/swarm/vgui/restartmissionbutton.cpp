@@ -1,14 +1,14 @@
 #include "cbase.h"
 #include <KeyValues.h>
-#include "RestartMissionButton.h"
-#include "C_ASW_Player.h"
+#include "restartmissionbutton.h"
+#include "c_asw_player.h"
 #include "c_asw_game_resource.h"
 #include "c_asw_marine_resource.h"
 #include "asw_marine_profile.h"
 #include "controller_focus.h"
 #include "asw_gamerules.h"
 #include "vgui_controls/AnimationController.h"
-#include "ForceReadyPanel.h"
+#include "forcereadypanel.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

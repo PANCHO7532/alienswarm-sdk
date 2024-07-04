@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,9 +6,9 @@
 //=============================================================================//
 
 #include "cbase.h"
-#include "BuyMenu.h"
+#include "buymenu.h"
 
-#include "BuySubMenu.h"
+#include "buysubmenu.h"
 using namespace vgui;
 
 #include "mouseoverpanelbutton.h"

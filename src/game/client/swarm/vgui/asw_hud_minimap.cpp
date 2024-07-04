@@ -20,7 +20,7 @@
 using namespace vgui;
 
 #include "filesystem.h"
-#include <keyvalues.h>
+#include <KeyValues.h>
 #include "asw_hud_minimap.h"
 #include "c_asw_player.h"
 #include "c_asw_marine.h"
@@ -33,12 +33,12 @@ using namespace vgui;
 #include "fx.h"
 #include "tier0/vprof.h"
 #include "asw_gamerules.h"
-#include "ScanLinePanel.h"
+#include "scanlinepanel.h"
 #include "c_asw_scanner_noise.h"
-#include "SoftLine.h"
+#include "softline.h"
 #include "c_asw_objective.h"
 
-#include "ConVar.h"
+#include "convar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -16,7 +16,7 @@
 #include "c_baseanimatingoverlay.h"
 #include "sceneentity_shared.h"
 
-#include "UtlVector.h"
+#include "utlvector.h"
 
 //-----------------------------------------------------------------------------
 // Purpose: Item in list of loaded scene files

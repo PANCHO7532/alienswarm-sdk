@@ -9,8 +9,8 @@
 #include "asw_mission_chooser_list.h"
 #include "asw_mission_chooser_entry.h"
 #include "asw_difficulty_chooser.h"
-#include "FileSystem.h"
-#include "ServerOptionsPanel.h"
+#include "filesystem.h"
+#include "serveroptionspanel.h"
 #include <vgui_controls/Panel.h>
 #include <vgui/isurface.h>
 #include <vgui/IInput.h>

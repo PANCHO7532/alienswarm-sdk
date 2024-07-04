@@ -1,17 +1,17 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
 //=============================================================================
 
-#include "CustomTabExplanationDialog.h"
-#include "BasePanel.h"
+#include "customtabexplanationdialog.h"
+#include "basepanel.h"
 #include "convar.h"
-#include "EngineInterface.h"
-#include "GameUI_Interface.h"
+#include "engineinterface.h"
+#include "gameui_interface.h"
 #include "vgui/ISurface.h"
 #include "vgui/IInput.h"
-#include "ModInfo.h"
+#include "modinfo.h"
 #include <stdio.h>
 
 using namespace vgui;

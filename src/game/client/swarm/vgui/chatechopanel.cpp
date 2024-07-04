@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "ChatEchoPanel.h"
+#include "chatechopanel.h"
 #include <vgui/vgui.h>
 #include "ienginevgui.h"
 #include <vgui_controls/Controls.h>

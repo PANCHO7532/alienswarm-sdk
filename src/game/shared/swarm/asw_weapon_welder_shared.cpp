@@ -9,7 +9,7 @@
 #include "c_asw_door_area.h"
 #include "c_asw_door.h"
 #include "c_asw_marine_resource.h"
-#include "FX.h"
+#include "fx.h"
 #define CASW_Marine C_ASW_Marine
 #define CASW_Door_Area C_ASW_Door_Area
 #define CASW_Door C_ASW_Door

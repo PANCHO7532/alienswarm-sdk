@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "ScanLinePanel.h"
+#include "scanlinepanel.h"
 #include "vgui/isurface.h"
 #include <KeyValues.h>
 

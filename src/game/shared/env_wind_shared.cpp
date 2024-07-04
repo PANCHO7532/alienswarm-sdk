@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 // Information about algorithmic stuff that can occur on both client + server
@@ -67,9 +67,9 @@
 #include "cbase.h"
 #include "env_wind_shared.h"
 #include "soundenvelope.h"
-#include "ieffects.h"
+#include "IEffects.h"
 #include "engine/ienginesound.h"
-#include "sharedinterface.h"
+#include "sharedInterface.h"
 #include "renderparm.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -16,7 +16,7 @@
 #include "cpp_shader_constant_register_map.h"
 #include "shaderlib/cshader.h"
 #include "shaderlib/baseshader.h"
-#include "ConVar.h"
+#include "convar.h"
 #include <renderparm.h>
 
 

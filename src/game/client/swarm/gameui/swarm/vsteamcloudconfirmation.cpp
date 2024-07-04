@@ -1,12 +1,12 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VSteamCloudConfirmation.h"
+#include "vsteamcloudconfirmation.h"
 
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
 #include "ConfigManager.h"
 

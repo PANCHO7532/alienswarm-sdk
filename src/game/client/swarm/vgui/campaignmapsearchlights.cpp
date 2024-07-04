@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "CampaignMapSearchLights.h"
+#include "campaignmapsearchlights.h"
 #include "vgui/isurface.h"
 #include "asw_gamerules.h"
 #include "asw_campaign_info.h"

@@ -19,7 +19,7 @@
 #include "ai_navigator.h"
 #include "saverestore_utlvector.h"
 #include "ai_baseactor.h"
-#include "AI_Criteria.h"
+#include "ai_criteria.h"
 #include "tier1/strtools.h"
 #include "checksum_crc.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"

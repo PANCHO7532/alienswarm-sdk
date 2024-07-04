@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -12,9 +12,9 @@
 #include <windows.h>
 #endif
 
-#include "ContentControlDialog.h"
+#include "contentcontroldialog.h"
 #include "checksum_md5.h"
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
 #include <vgui/IInput.h>
 #include <vgui/ISystem.h>

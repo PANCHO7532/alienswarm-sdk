@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "c_asw_trail_Beam.h"
+#include "c_asw_trail_beam.h"
 #include "iviewrender_beams.h"
 #include "beamdraw.h"
 #include "c_te_effect_dispatch.h"

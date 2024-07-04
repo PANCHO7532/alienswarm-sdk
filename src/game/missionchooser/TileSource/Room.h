@@ -4,8 +4,8 @@
 #pragma once
 #endif
 
-#include "Utlvector.h"
-#include "ChunkFile.h"
+#include "utlvector.h"
+#include "chunkfile.h"
 #include "missionchooser/iasw_random_missions.h"
 
 class CRoomTemplate;

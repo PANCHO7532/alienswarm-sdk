@@ -1,13 +1,13 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 
-#include "OptionsSubDifficulty.h"
+#include "optionssubdifficulty.h"
 #include "tier1/convar.h"
-#include "EngineInterface.h"
+#include "engineinterface.h"
 #include "tier1/KeyValues.h"
 
 #include "vgui_controls/RadioButton.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,9 +8,9 @@
 #define __VGAMELOBBY_H__
 
 #include "basemodui.h"
-#include "VFlyoutMenu.h"
-#include "VDropDownMenu.h"
-#include "VGameLobbyChat.h"
+#include "vflyoutmenu.h"
+#include "vdropdownmenu.h"
+#include "vgamelobbychat.h"
 
 namespace BaseModUI {
 

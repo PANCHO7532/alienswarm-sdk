@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Material proxy to get the cycle from a CBaseAnimateing derived entity.
 //
@@ -9,7 +9,7 @@
 // identifier was truncated to '255' characters in the debug information
 //#pragma warning(disable: 4786)
 
-#include "ProxyEntity.h"
+#include "proxyentity.h"
 #include "materialsystem/IMaterialVar.h"
 #include "imaterialproxydict.h"
 

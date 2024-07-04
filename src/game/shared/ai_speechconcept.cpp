@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:
 //
@@ -16,7 +16,7 @@
 #endif
 
 #include "engine/ienginesound.h"
-#include "keyvalues.h"
+#include "KeyValues.h"
 #include "ai_criteria.h"
 #include "isaverestore.h"
 

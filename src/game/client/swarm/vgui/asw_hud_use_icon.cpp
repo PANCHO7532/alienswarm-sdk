@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "vgui_BasePanel.h"
+#include "vgui_basepanel.h"
 #include <vgui_controls/AnimationController.h>
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/Label.h>

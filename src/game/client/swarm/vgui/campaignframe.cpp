@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "CampaignFrame.h"
+#include "campaignframe.h"
 #include "vgui\CampaignPanel.h"
 #include "vgui\FadeInPanel.h"
 #include "asw_gamerules.h"

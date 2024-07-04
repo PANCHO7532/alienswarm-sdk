@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "C_ASW_Objective_Kill_Eggs.h"
+#include "c_asw_objective_kill_eggs.h"
 #include <vgui/ILocalize.h>
 #include <vgui_controls/Panel.h>
 

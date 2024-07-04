@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 #define __VFOUND_PUBLIC_GAMES_H__
 
 #include "basemodui.h"
-#include "VFoundGames.h"
+#include "vfoundgames.h"
 
 namespace BaseModUI {
 

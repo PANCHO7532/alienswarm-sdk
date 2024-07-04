@@ -1,18 +1,18 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VControllerOptionsSticks.h"
-#include "VFooterPanel.h"
-#include "VSliderControl.h"
-#include "VDropDownMenu.h"
-#include "VFlyoutMenu.h"
-#include "EngineInterface.h"
+#include "vcontrolleroptionssticks.h"
+#include "vfooterpanel.h"
+#include "vslidercontrol.h"
+#include "vdropdownmenu.h"
+#include "vflyoutmenu.h"
+#include "engineinterface.h"
 #include "gameui_util.h"
 #include "vgui/ILocalize.h"
-#include "VHybridButton.h"
+#include "vhybridbutton.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

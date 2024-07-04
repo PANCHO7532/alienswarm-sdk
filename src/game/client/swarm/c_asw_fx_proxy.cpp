@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -13,7 +13,7 @@
 #include "c_asw_marine.h"
 #include "c_asw_clientragdoll.h"
 
-#include "ProxyEntity.h"
+#include "proxyentity.h"
 #include "materialsystem/IMaterial.h"
 #include "materialsystem/IMaterialVar.h"
 #include "materialsystem/IMaterialSystem.h"

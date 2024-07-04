@@ -1,15 +1,15 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //
 //=============================================================================//
-#include "OptionsSubPortal.h"
-#include "CvarToggleCheckButton.h"
+#include "optionssubportal.h"
+#include "cvartogglecheckbutton.h"
 #include "vgui_controls/ComboBox.h"
 
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
 #include <KeyValues.h>
 #include <vgui/IScheme.h>

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 //
 //=============================================================================//
 
-#include "CreateMultiplayerGameBotPage.h"
+#include "createmultiplayergamebotpage.h"
 
 using namespace vgui;
 
@@ -16,12 +16,12 @@ using namespace vgui;
 #include <vgui_controls/Label.h>
 #include <vgui_controls/TextEntry.h>
 
-#include "FileSystem.h"
-#include "PanelListPanel.h"
-#include "ScriptObject.h"
+#include "filesystem.h"
+#include "panellistpanel.h"
+#include "scriptobject.h"
 #include "tier1/convar.h"
-#include "EngineInterface.h"
-#include "CvarToggleCheckButton.h"
+#include "engineinterface.h"
+#include "cvartogglecheckbutton.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

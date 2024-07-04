@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 //===========================================================================//
 #include "cbase.h"
 #include "c_baseanimating.h"
-#include "c_Sprite.h"
+#include "c_sprite.h"
 #include "model_types.h"
 #include "bone_setup.h"
 #include "ivrenderview.h"
@@ -19,7 +19,7 @@
 #include "activitylist.h"
 #include "animation.h"
 #include "tier0/vprof.h"
-#include "ieffects.h"
+#include "IEffects.h"
 #include "engine/ivmodelinfo.h"
 #include "engine/IVDebugOverlay.h"
 #include "c_te_effect_dispatch.h"

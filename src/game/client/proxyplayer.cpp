@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,7 +10,7 @@
 #include "materialsystem/IMaterial.h"
 #include "materialsystem/ITexture.h"
 #include "materialsystem/IMaterialSystem.h"
-#include "FunctionProxy.h"
+#include "functionproxy.h"
 
 #include "imaterialproxydict.h"
 // memdbgon must be the last include file in a .cpp file!!!
@@ -285,7 +285,7 @@ void CEntityRandomProxy::OnBind( void *pC_BaseEntity )
 
 EXPOSE_MATERIAL_PROXY( CEntityRandomProxy, EntityRandom );
 
-#include "UtlRBTree.h"
+#include "utlrbtree.h"
 
 //-----------------------------------------------------------------------------
 // Returns the player speed

@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include "vgui/ivgui.h"
 #include <vgui/vgui.h>
-#include "ServerOptionsPanel.h"
+#include "serveroptionspanel.h"
 #include <vgui_controls/Label.h>
 #include <vgui_controls/ComboBox.h>
 #include <vgui_controls/TextEntry.h>

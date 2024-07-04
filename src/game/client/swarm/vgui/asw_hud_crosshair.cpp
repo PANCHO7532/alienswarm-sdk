@@ -6,7 +6,7 @@
 #include "vgui_controls/controls.h"
 #include "vgui/ISurface.h"
 #include "vgui/Cursor.h"
-#include "IVRenderView.h"
+#include "ivrenderview.h"
 #include "iinput.h"	  // asw
 #include "asw_input.h"
 #include "c_asw_player.h"

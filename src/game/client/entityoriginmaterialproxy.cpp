@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2006, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2006, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A base class for all material proxies in the client dll
 //
@@ -9,7 +9,7 @@
 // identifier was truncated to '255' characters in the debug information
 //#pragma warning(disable: 4786)
 
-#include "ProxyEntity.h"
+#include "proxyentity.h"
 #include "materialsystem/IMaterialVar.h"
 #include "imaterialproxydict.h"
 

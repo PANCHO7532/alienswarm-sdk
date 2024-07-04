@@ -10,7 +10,7 @@
 #include "c_tracer.h"
 #include "dlight.h"
 #include "precache_register.h"
-#include "FX_Sparks.h"
+#include "fx_sparks.h"
 #include "iefx.h"
 #include "c_te_effect_dispatch.h"
 #include "tier0/vprof.h"

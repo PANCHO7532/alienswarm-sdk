@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 #include "view.h"
 #include <vgui_controls/controls.h>
 #include <vgui/ISurface.h>
-#include "IClientVehicle.h"
+#include "iclientvehicle.h"
 #include "c_prop_vehicle.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

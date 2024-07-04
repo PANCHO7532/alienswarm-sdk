@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Base explosion effect
 //
@@ -7,10 +7,10 @@
 #include "cbase.h"
 #include "fx_explosion.h"
 #include "precache_register.h"
-#include "FX_Sparks.h"
+#include "fx_sparks.h"
 #include "dlight.h"
 #include "tempentity.h"
-#include "IEfx.h"
+#include "iefx.h"
 #include "engine/IEngineSound.h"
 #include "engine/IVDebugOverlay.h"
 #include "c_te_effect_dispatch.h"

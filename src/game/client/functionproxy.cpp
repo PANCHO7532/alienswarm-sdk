@@ -1,15 +1,15 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "FunctionProxy.h"
+#include "functionproxy.h"
 #include <KeyValues.h>
 #include "materialsystem/IMaterialVar.h"
 #include "materialsystem/IMaterial.h"
-#include "IClientRenderable.h"
+#include "iclientrenderable.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

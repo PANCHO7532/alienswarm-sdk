@@ -9,13 +9,13 @@
 #include <vgui_controls/ImagePanel.h>
 #include "vgui_controls/TextImage.h"
 #include "vgui/ILocalize.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include "filesystem.h"
-#include <keyvalues.h>
+#include <KeyValues.h>
 #include "controller_focus.h"
 #include "asw_vgui_computer_frame.h"
 #include "clientmode_asw.h"
-#include "ImageButton.h"
+#include "imagebutton.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

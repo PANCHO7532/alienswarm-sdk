@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,8 +9,8 @@
 
 #include "basemodpanel.h"
 #include "basemodframe.h"
-#include "UIGameData.h"
-#include "GameUI_Interface.h"
+#include "uigamedata.h"
+#include "gameui_interface.h"
 #include "const.h"
 
 #ifndef _CERT

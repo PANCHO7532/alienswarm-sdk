@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -7,9 +7,9 @@
 
 
 #include "IRunGameEngine.h"
-#include "EngineInterface.h"
+#include "engineinterface.h"
 #include "tier1/strtools.h"
-#include "igameuifuncs.h"
+#include "IGameUIFuncs.h"
 #include "tier1/convar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

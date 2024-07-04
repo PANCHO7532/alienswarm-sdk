@@ -6,9 +6,9 @@
 #include "asw_info_message_shared.h"
 #include <vgui_controls/AnimationController.h>
 #include <vgui_controls/ScrollBar.h>
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include <vgui/IInput.h>
-#include "ImageButton.h"
+#include "imagebutton.h"
 #include "controller_focus.h"
 #include <vgui_controls/ImagePanel.h>
 #include "iclientmode.h"

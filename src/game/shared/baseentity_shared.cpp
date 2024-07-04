@@ -18,7 +18,7 @@
 #include "mapentities_shared.h"
 #include "debugoverlay_shared.h"
 #include "coordsize.h"
-#include "AI_Criteria.h"
+#include "ai_criteria.h"
 
 #ifdef CLIENT_DLL
 	#include "c_te_effect_dispatch.h"

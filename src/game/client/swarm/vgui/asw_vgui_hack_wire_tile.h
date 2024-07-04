@@ -9,7 +9,7 @@
 #include "vgui_controls\ComboBox.h"
 #include "vgui/IScheme.h"
 #include "asw_vgui_ingame_panel.h"
-#include "ImageButton.h"
+#include "imagebutton.h"
 #include "c_asw_hack_wire_tile.h"
 #include "asw_vgui_frame.h"
 #include "asw_gamerules.h"

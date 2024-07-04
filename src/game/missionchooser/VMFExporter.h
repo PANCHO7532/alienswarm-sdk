@@ -4,7 +4,7 @@
 #pragma once
 #endif
 
-#include "ChunkFile.h"
+#include "chunkfile.h"
 #include "utlvector.h"
 #include "utlstring.h"
 

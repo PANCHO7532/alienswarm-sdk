@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,9 +8,9 @@
 
 #include <stdio.h>
 
-#include "GameConsole.h"
-#include "GameConsoleDialog.h"
-#include "LoadingDialog.h"
+#include "gameconsole.h"
+#include "gameconsoledialog.h"
+#include "loadingdialog.h"
 #include "vgui/ISurface.h"
 
 #include "KeyValues.h"

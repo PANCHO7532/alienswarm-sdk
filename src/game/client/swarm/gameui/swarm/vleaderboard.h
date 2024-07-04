@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,7 +10,7 @@
 #include "basemodui.h"
 #include "tier1/utlstack.h"
 
-#include "VFlyoutMenu.h"
+#include "vflyoutmenu.h"
 
 #if !defined( _X360 )
 #include "steam/isteamuserstats.h"

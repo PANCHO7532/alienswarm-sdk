@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "c_asw_debrief_stats.h"
-#include "MissionStatsPanel.h"
+#include "missionstatspanel.h"
 #include "iclientmode.h"
 #include "c_asw_player.h"
 #include <vgui_controls/Frame.h>

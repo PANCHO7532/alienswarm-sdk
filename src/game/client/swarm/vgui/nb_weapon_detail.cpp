@@ -4,7 +4,7 @@
 #include "asw_weapon_parse.h"
 #include "asw_equipment_list.h"
 #include <vgui/ILocalize.h>
-#include "StatsBar.h"
+#include "statsbar.h"
 #include "asw_briefing.h"
 #include "c_asw_player.h"
 #include "ammodef.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:
 //
@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "c_baseplayer.h"
 #include "menu.h"
-#include "keyvalues.h"
+#include "KeyValues.h"
 #include "multiplay_gamerules.h"
 
 // NOTE: This has to be the last file included!

@@ -1,11 +1,11 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=============================================================================//
 
-#include "OptionsSubGame.h"
-#include "BasePanel.h"
+#include "optionssubgame.h"
+#include "basepanel.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -15,7 +15,7 @@
 #include "sky_hdr_compressed_rgbs_ps20.inc"
 #include "sky_hdr_compressed_rgbs_ps20b.inc"
 
-#include "ConVar.h"
+#include "convar.h"
 
 // NOTE: This has to be the last file included!
 #include "tier0/memdbgon.h"

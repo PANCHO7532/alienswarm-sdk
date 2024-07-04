@@ -1,12 +1,12 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VOptions.h"
-#include "VFooterPanel.h"
-#include "VHybridButton.h"
+#include "voptions.h"
+#include "vfooterpanel.h"
+#include "vhybridbutton.h"
 
 #include "vgui_controls/Button.h"
 

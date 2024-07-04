@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -7,7 +7,7 @@
 #include "cbase.h"
 #include "c_basehelicopter.h"
 #include "fx_impact.h"
-#include "ieffects.h"
+#include "IEffects.h"
 #include "simple_keys.h"
 #include "fx_envelope.h"
 #include "fx_line.h"

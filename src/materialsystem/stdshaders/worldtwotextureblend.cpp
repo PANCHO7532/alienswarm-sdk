@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2007, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 
 #include "BaseVSShader.h"
 
-#include "ConVar.h"
+#include "convar.h"
 
 #ifndef _X360
 #include "lightmappedgeneric_vs30.inc"

@@ -1,11 +1,11 @@
-//========= Copyright © 1996-2002, Valve LLC, All rights reserved. ============
+//========= Copyright ï¿½ 1996-2002, Valve LLC, All rights reserved. ============
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================
 
-#include "basevsshader.h"
+#include "BaseVSShader.h"
 
 #include "screenspaceeffect_vs20.inc"
 #include "filmgrain_ps20.inc"

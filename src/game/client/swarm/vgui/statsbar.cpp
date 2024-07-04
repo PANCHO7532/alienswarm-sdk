@@ -3,8 +3,8 @@
 #include "vgui_controls/AnimationController.h"
 #include <vgui_controls/ImagePanel.h>
 #include "soundenvelope.h"
-#include "BriefingTooltip.h"
-#include "StatsBar.h"
+#include "briefingtooltip.h"
+#include "statsbar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

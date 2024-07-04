@@ -9,7 +9,7 @@
 #include <vgui_controls/ImageList.h>
 #include <vgui_controls/SectionedListPanel.h>
 #include <vgui_controls/PHandle.h>
-#include <FileSystem.h>
+#include <filesystem.h>
 #include "vgui/mousecode.h"
 #include "vgui/IScheme.h"
 

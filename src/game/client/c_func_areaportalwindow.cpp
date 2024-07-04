@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 #include "cbase.h"
 #include "view.h"
 #include "model_types.h"
-#include "IVRenderView.h"
+#include "ivrenderview.h"
 #include "engine/ivmodelinfo.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

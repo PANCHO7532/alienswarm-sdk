@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "BriefingDialog.h"
+#include "briefingdialog.h"
 #include <vgui/vgui.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/TextImage.h>
@@ -9,10 +9,10 @@
 #include <vgui/ILocalize.h>
 #include <vgui/ISurface.h>
 #include "controller_focus.h"
-#include "WrappedLabel.h"
-#include "ImageButton.h"
-#include "BriefingTooltip.h"
-#include "ForceReadyPanel.h"
+#include "wrappedlabel.h"
+#include "imagebutton.h"
+#include "briefingtooltip.h"
+#include "forcereadypanel.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

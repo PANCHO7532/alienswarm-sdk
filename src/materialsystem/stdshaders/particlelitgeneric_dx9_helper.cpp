@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #if 0
 
 #include "particlelitgeneric_dx9_helper.h"
-#include "basevsshader.h"
+#include "BaseVSShader.h"
 #include "particlelit_generic_vs30.inc"
 #include "particlelit_generic_ps30.inc"
 #include "convar.h"

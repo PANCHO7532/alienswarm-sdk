@@ -8,7 +8,7 @@
 #include "asw_mission_chooser_list.h"
 #include "asw_mission_chooser_frame.h"
 #include "asw_difficulty_chooser.h"
-#include "ServerOptionsPanel.h"
+#include "serveroptionspanel.h"
 #include <vgui/isurface.h>
 #include <vgui/IInput.h>
 #include "vgui_controls/AnimationController.h"

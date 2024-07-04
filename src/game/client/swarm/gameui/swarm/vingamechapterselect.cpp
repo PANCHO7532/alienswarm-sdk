@@ -1,16 +1,16 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VInGameChapterSelect.h"
-#include "VFooterPanel.h"
-#include "EngineInterface.h"
-#include "VDropDownMenu.h"
+#include "vingamechapterselect.h"
+#include "vfooterpanel.h"
+#include "engineinterface.h"
+#include "vdropdownmenu.h"
 
-#include "VHybridButton.h"
-#include "VGameSettings.h"
+#include "vhybridbutton.h"
+#include "vgamesettings.h"
 #include "vgui_controls/ImagePanel.h"
 #include "vgui/ILocalize.h"
 #include "gameui_util.h"

@@ -1,12 +1,12 @@
-#include "VSliderControl.h"
-#include "VHybridButton.h"
+#include "vslidercontrol.h"
+#include "vhybridbutton.h"
 #include "vgui/ISurface.h"
 #include "vgui_controls/ProgressBar.h"
 #include "tier1/KeyValues.h"
 #include "IGameUIFuncs.h"
 #include "gameui_util.h"
 #include "vgui/IInput.h"
-#include "VFlyoutMenu.h"
+#include "vflyoutmenu.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

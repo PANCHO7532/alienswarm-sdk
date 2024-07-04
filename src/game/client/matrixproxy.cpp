@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "mathlib/VMatrix.h"
-#include "FunctionProxy.h"
+#include "functionproxy.h"
 #include "materialsystem/IMaterialVar.h"
 #include <KeyValues.h>
 #include "materialsystem/IMaterial.h"

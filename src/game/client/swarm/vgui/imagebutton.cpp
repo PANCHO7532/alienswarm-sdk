@@ -1,6 +1,6 @@
 
 #include "cbase.h"
-#include "ImageButton.h"
+#include "imagebutton.h"
 #include <vgui_controls/Label.h>
 #include <vgui_controls/ImagePanel.h>
 #include <vgui/ISystem.h>

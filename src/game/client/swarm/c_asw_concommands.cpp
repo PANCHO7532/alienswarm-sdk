@@ -17,9 +17,9 @@
 #include "asw_vgui_manipulator.h"
 #include "c_asw_camera_volume.h"
 #include "c_asw_mesh_emitter_entity.h"
-#include "MedalCollectionPanel.h"
-#include "PlayerListPanel.h"
-#include "PlayerListContainer.h"
+#include "medalcollectionpanel.h"
+#include "playerlistpanel.h"
+#include "playerlistcontainer.h"
 #include "vgui\nb_mission_panel.h"
 #ifndef _X360
 #include "steam/isteamuserstats.h"

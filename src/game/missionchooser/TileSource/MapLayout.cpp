@@ -1,6 +1,6 @@
 #include "MapLayout.h"
 #include "Room.h"
-#include "ChunkFile.h"
+#include "chunkfile.h"
 #include "RoomTemplate.h"
 #include "KeyValues.h"
 #include "LevelTheme.h"

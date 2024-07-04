@@ -1,6 +1,6 @@
 #include "cbase.h"
 
-#include "IViewRender.h"
+#include "iviewrender.h"
 #include "view.h"
 #include "studio.h"
 #include "bone_setup.h"
@@ -10,7 +10,7 @@
 #include "iviewrender_beams.h"
 #include "fx.h"
 #include "IEffects.h"
-#include "C_ASW_Entity_Dissolve.h"
+#include "c_asw_entity_dissolve.h"
 #include "movevars_shared.h"
 #include "precache_register.h"
 #include "asw_fx_shared.h"

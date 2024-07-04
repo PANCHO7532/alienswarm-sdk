@@ -1,10 +1,10 @@
 #include "cbase.h"
-#include "DebriefTextPage.h"
+#include "debrieftextpage.h"
 #include "vgui_controls/ImagePanel.h"
 #include "vgui_controls/TextImage.h"
-#include "ImageButton.h"
+#include "imagebutton.h"
 #include "asw_gamerules.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include "c_asw_debrief_stats.h"
 #include "nb_island.h"
 

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #include "vgui/ISurface.h"
 #include "vgui/ILocalize.h"
 #include "vgui/IInput.h"
-#include "VFlyoutMenu.h"
+#include "vflyoutmenu.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

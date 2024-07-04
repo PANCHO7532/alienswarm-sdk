@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 
 #include "basemodpanel.h"
 #include "basemodframe.h"
-#include "UIGameData.h"
+#include "uigamedata.h"
 
 #include <ctype.h>
 
@@ -15,33 +15,33 @@
 #include "ienginevgui.h"
 #include "icommandline.h"
 #include "vgui/ISurface.h"
-#include "EngineInterface.h"
+#include "engineinterface.h"
 #include "tier0/dbg.h"
 #include "ixboxsystem.h"
-#include "GameUI_Interface.h"
+#include "gameui_interface.h"
 #include "game/client/IGameClientExports.h"
 #include "fmtstr.h"
 #include "vstdlib/random.h"
 #include "utlbuffer.h"
 #include "filesystem/IXboxInstaller.h"
 #include "tier1/tokenset.h"
-#include "FileSystem.h"
+#include "filesystem.h"
 #include "filesystem/IXboxInstaller.h"
 
 #include <time.h>
 
 // BaseModUI High-level windows
 
-#include "VFoundGames.h"
-#include "VFoundGroupGames.h"
-#include "VGameLobby.h"
-#include "VGenericConfirmation.h"
-#include "VGenericWaitScreen.h"
-#include "VInGameMainMenu.h"
-#include "VMainMenu.h"
-#include "VFooterPanel.h"
-#include "VAttractScreen.h"
-#include "VPasswordEntry.h"
+#include "vfoundgames.h"
+#include "vfoundgroupgames.h"
+#include "vgamelobby.h"
+#include "vgenericconfirmation.h"
+#include "vgenericwaitscreen.h"
+#include "vingamemainmenu.h"
+#include "vmainmenu.h"
+#include "vfooterpanel.h"
+#include "vattractscreen.h"
+#include "vpasswordentry.h"
 // vgui controls
 #include "vgui/ILocalize.h"
 

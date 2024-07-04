@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -11,8 +11,8 @@
 #include <windows.h> // SRC only!!
 #endif
 
-#include "OptionsSubMultiplayer.h"
-#include "MultiplayerAdvancedDialog.h"
+#include "optionssubmultiplayer.h"
+#include "multiplayeradvanceddialog.h"
 #include <stdio.h>
 
 #include <vgui_controls/Button.h>
@@ -32,15 +32,15 @@
 #include <vgui/IPanel.h>
 #include <vgui_controls/MessageBox.h>
 
-#include "CvarTextEntry.h"
-#include "CvarToggleCheckButton.h"
-#include "CvarSlider.h"
-#include "LabeledCommandComboBox.h"
-#include "FileSystem.h"
-#include "EngineInterface.h"
-#include "BitmapImagePanel.h"
-#include "UtlBuffer.h"
-#include "ModInfo.h"
+#include "cvartextentry.h"
+#include "cvartogglecheckbutton.h"
+#include "cvarslider.h"
+#include "labeledcommandcombobox.h"
+#include "filesystem.h"
+#include "engineinterface.h"
+#include "bitmapimagepanel.h"
+#include "utlbuffer.h"
+#include "modinfo.h"
 #include "tier1/convar.h"
 
 

@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -14,8 +14,8 @@
 
 
 #include <vgui_controls/EditablePanel.h>
-#include "C_BaseEntity.h"
-#include "PanelMetaClassMgr.h"
+#include "c_baseentity.h"
+#include "panelmetaclassmgr.h"
 
 class KeyValues;
 

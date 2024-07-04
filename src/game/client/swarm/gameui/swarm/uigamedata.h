@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -29,10 +29,10 @@
 
 #include "basemodpanel.h"
 #include "basemodframe.h"
-#include "UIAvatarImage.h"
+#include "uiavatarimage.h"
 #include "tokenset.h"
 
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
 #include "matchmaking/mm_helpers.h"
 

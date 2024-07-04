@@ -1,11 +1,11 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 
-#include "PlayerListDialog.h"
+#include "playerlistdialog.h"
 
 #include <vgui/ILocalize.h>
 #include <vgui/ISurface.h>
@@ -15,9 +15,9 @@
 #include <vgui_controls/Button.h>
 #include <vgui_controls/MessageBox.h>
 
-#include "EngineInterface.h"
+#include "engineinterface.h"
 #include "game/client/IGameClientExports.h"
-#include "GameUI_Interface.h"
+#include "gameui_interface.h"
 #include "steam/steam_api.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

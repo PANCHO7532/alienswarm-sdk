@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -21,7 +21,7 @@
 #include "effect_color_tables.h"
 #include "iviewrender_beams.h"
 #include "view.h"
-#include "ieffects.h"
+#include "IEffects.h"
 #include "fx.h"
 #include "c_te_legacytempents.h"
 #include "toolframework_client.h"

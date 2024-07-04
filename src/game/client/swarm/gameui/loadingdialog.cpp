@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,9 +6,9 @@
 //=============================================================================//
 
 
-#include "LoadingDialog.h"
-#include "EngineInterface.h"
-#include "igameuifuncs.h"
+#include "loadingdialog.h"
+#include "engineinterface.h"
+#include "IGameUIFuncs.h"
 
 #include <vgui/IInput.h>
 #include <vgui/ISurface.h>
@@ -22,8 +22,8 @@
 #include <vgui_controls/RichText.h>
 #include "tier0/icommandline.h"
 
-#include "GameUI_Interface.h"
-#include "ModInfo.h"
+#include "gameui_interface.h"
+#include "modinfo.h"
 #include "basepanel.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

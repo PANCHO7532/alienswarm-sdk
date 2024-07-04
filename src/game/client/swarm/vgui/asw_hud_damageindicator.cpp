@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Hud element that indicates the direction of damage taken by the player
 //
@@ -17,7 +17,7 @@
 #include "materialsystem/IMaterial.h"
 #include "materialsystem/IMesh.h"
 #include "materialsystem/imaterialvar.h"
-#include "ieffects.h"
+#include "IEffects.h"
 #include "hudelement.h"
 #include "asw_gamerules.h"
 #include "c_asw_player.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -18,7 +18,7 @@
 #include "asw_gamerules.h"
 #include "gamerules.h"
 #include "teamplay_gamerules.h"
-#include "EntityList.h"
+#include "entitylist.h"
 #include "physics.h"
 #include "game.h"
 #include "player_resource.h"

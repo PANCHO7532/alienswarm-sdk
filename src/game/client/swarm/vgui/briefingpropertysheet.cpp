@@ -1,6 +1,6 @@
 #include "cbase.h"
-#include "BriefingPropertySheet.h"
-#include "BriefingTooltip.h"
+#include "briefingpropertysheet.h"
+#include "briefingtooltip.h"
 #include "vgui_controls/Button.h"
 #include "controller_focus.h"
 

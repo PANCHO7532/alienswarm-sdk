@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -11,7 +11,7 @@
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "FX_DiscreetLine.h"
+#include "fx_discreetline.h"
 #include "materialsystem/IMaterial.h"
 #include "materialsystem/IMesh.h"
 #include "view.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -21,7 +21,7 @@
 #include "iclientmode.h"
 #include <vgui_controls/Panel.h>
 #include <KeyValues.h>
-#include "FileSystem.h"
+#include "filesystem.h"
 #include "matsys_controls/matsyscontrols.h"
 
 using namespace vgui;

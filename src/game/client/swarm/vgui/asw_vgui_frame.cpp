@@ -8,10 +8,10 @@
 #include <vgui_controls/ImagePanel.h>
 #include "vgui_controls/TextImage.h"
 #include "vgui/ILocalize.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include <vgui_controls/ImagePanel.h>
 #include <filesystem.h>
-#include <keyvalues.h>
+#include <KeyValues.h>
 #include "c_asw_player.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

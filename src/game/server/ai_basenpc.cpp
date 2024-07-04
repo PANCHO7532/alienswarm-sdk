@@ -47,7 +47,7 @@
 #include "ai_tacticalservices.h"
 #include "ai_behavior.h"
 #include "ai_dynamiclink.h"
-#include "AI_Criteria.h"
+#include "ai_criteria.h"
 #include "basegrenade_shared.h"
 #include "ammodef.h"
 #include "player.h"

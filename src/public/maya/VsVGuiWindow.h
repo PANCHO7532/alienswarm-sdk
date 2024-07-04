@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2006, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2006, Valve Corporation, All rights reserved. ======//
 //
 // Base class for windows that draw vgui in Maya
 //
@@ -12,7 +12,7 @@
 #endif
 
 
-#include "imayavgui.h"
+#include "IMayaVGui.h"
 #include "vgui_controls/Frame.h"
 #include "tier1/UtlMap.h"
 #include "valveMaya.h"

@@ -1,19 +1,19 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VGameLobby.h"
+#include "vgamelobby.h"
 #include "KeyValues.h"
-#include "VGenericConfirmation.h"
-#include "VGenericPanelList.h"
-#include "VFooterPanel.h"
+#include "vgenericconfirmation.h"
+#include "vgenericpanellist.h"
+#include "vfooterpanel.h"
 #include "gameui_util.h"
 #include "GameUI/IGameUI.h"
-#include "EngineInterface.h"
-#include "VHybridButton.h"
-#include "VGameSettings.h"
+#include "engineinterface.h"
+#include "vhybridbutton.h"
+#include "vgamesettings.h"
 
 #include "vgui_controls/Button.h"
 #include "vgui_controls/ImagePanel.h"
@@ -22,7 +22,7 @@
 #include "vgui/ILocalize.h"
 #include "vgui/ISurface.h"
 #include "vgui/IVGui.h"
-#include "FileSystem.h"
+#include "filesystem.h"
 
 #include "fmtstr.h"
 #include "smartptr.h"

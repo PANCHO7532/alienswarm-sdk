@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "C_ASW_Objective_Kill_Queen.h"
+#include "c_asw_objective_kill_queen.h"
 #include "asw_vgui_queen_health.h"
 #include "c_asw_queen.h"
 #include "iclientmode.h"

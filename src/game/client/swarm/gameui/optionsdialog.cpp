@@ -1,11 +1,11 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 
-#include "OptionsDialog.h"
+#include "optionsdialog.h"
 
 #include "vgui_controls/Button.h"
 #include "vgui_controls/CheckButton.h"
@@ -19,15 +19,15 @@
 #include "vgui/IVGui.h"
 
 #include "KeyValues.h"
-#include "OptionsSubKeyboard.h"
-#include "OptionsSubMouse.h"
-#include "OptionsSubAudio.h"
-#include "OptionsSubVideo.h"
-#include "OptionsSubVoice.h"
-#include "OptionsSubMultiplayer.h"
-#include "OptionsSubDifficulty.h"
-#include "OptionsSubPortal.h"
-#include "ModInfo.h"
+#include "optionssubkeyboard.h"
+#include "optionssubmouse.h"
+#include "optionssubaudio.h"
+#include "optionssubvideo.h"
+#include "optionssubvoice.h"
+#include "optionssubmultiplayer.h"
+#include "optionssubdifficulty.h"
+#include "optionssubportal.h"
+#include "modinfo.h"
 
 using namespace vgui;
 

@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include "dlight.h"
 #include "iefx.h"
-#include "IViewRender.h"
+#include "iviewrender.h"
 #include "c_asw_dynamic_light.h"
 #include "asw_shareddefs.h"
 

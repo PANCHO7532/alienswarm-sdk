@@ -28,7 +28,7 @@ using namespace vgui;
 #include "c_asw_weapon.h"
 #include "vguimatsurface/imatsystemsurface.h"
 #include "tier0/vprof.h"
-#include "ConVar.h"
+#include "convar.h"
 #include "asw_weapon_parse.h"
 #include "asw_vgui_fast_reload.h"
 #include "asw_hud_objective.h"

@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -14,13 +14,13 @@
 
 #include "c_baseentity.h"
 #include "studio.h"
-#include "UtlVector.h"
+#include "utlvector.h"
 #include "ragdoll.h"
 #include "mouthinfo.h"
 // Shared activities
 #include "ai_activity.h"
 #include "animationlayer.h"
-#include "sequence_transitioner.h"
+#include "sequence_Transitioner.h"
 #include "bone_accessor.h"
 #include "bone_merge_cache.h"
 #include "ragdoll_shared.h"

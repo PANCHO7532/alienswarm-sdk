@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -24,7 +24,7 @@
 #include <vgui_controls/Controls.h>
 #include <vgui/IScheme.h>
 #include <vgui/ISurface.h>
-#include "vgui_BitmapImage.h"
+#include "vgui_bitmapimage.h"
 #include "materialsystem/imaterial.h"
 #include "tier0/dbg.h"
 #include "cdll_int.h"

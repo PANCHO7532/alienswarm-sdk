@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "SoftLine.h"
+#include "softline.h"
 #include <KeyValues.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

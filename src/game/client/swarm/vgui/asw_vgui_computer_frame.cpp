@@ -8,7 +8,7 @@
 #include <vgui/IInput.h>
 #include <vgui_controls/AnimationController.h>
 #include <vgui_controls/ImagePanel.h>
-#include "ImageButton.h"
+#include "imagebutton.h"
 #include "controller_focus.h"
 #include "asw_gamerules.h"
 

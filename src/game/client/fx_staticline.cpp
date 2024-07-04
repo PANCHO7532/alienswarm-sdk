@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "clientsideeffects.h"
-#include "FX_StaticLine.h"
+#include "fx_staticline.h"
 #include "materialsystem/IMaterial.h"
 #include "materialsystem/IMesh.h"
 #include "view.h"

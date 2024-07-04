@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -7,7 +7,7 @@
 //===========================================================================//
 #include "cbase.h"
 #include "c_basetempentity.h"
-#include "particle_simple3D.h"
+#include "particle_simple3d.h"
 #include "tier1/keyvalues.h"
 #include "toolframework_client.h"
 #include "fx.h"

@@ -1,14 +1,14 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VQuickJoin.h"
-#include "VGenericPanelList.h"
-#include "VHybridButton.h"
-#include "VMainMenu.h"
-#include "EngineInterface.h"
+#include "vquickjoin.h"
+#include "vgenericpanellist.h"
+#include "vhybridbutton.h"
+#include "vmainmenu.h"
+#include "engineinterface.h"
 #include "gameui_util.h"
 
 #include "tier1/KeyValues.h"

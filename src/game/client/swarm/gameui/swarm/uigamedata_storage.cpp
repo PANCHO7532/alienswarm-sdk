@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,9 +6,9 @@
 
 #include "basemodpanel.h"
 #include "basemodframe.h"
-#include "UIGameData.h"
-#include "EngineInterface.h"
-#include "VGenericConfirmation.h"
+#include "uigamedata.h"
+#include "engineinterface.h"
+#include "vgenericconfirmation.h"
 #include "vgui/ILocalize.h"
 #include "matchmaking/imatchframework.h"
 #include "filesystem.h"

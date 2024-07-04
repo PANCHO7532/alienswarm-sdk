@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #include "cbase.h"
 #include "beamdraw.h"
 #include "enginesprite.h"
-#include "IViewRender_Beams.h"
+#include "iviewrender_beams.h"
 #include "view.h"
 #include "iviewrender.h"
 #include "engine/ivmodelinfo.h"

@@ -11,7 +11,7 @@
 #include <vgui_controls/AnimationController.h>
 #include <vgui/ILocalize.h>
 #include <filesystem.h>
-#include <keyvalues.h>
+#include <KeyValues.h>
 #include "hudelement.h"
 #include "hud_numericdisplay.h"
 #include "c_asw_player.h"
@@ -27,7 +27,7 @@
 #include "asw_shareddefs.h"
 #include "asw_equipment_list.h"
 #include "c_asw_weapon.h"
-#include "ConVar.h"
+#include "convar.h"
 #include "asw_weapon_parse.h"
 #include "tier0/vprof.h"
 #include "asw_hud_objective.h"

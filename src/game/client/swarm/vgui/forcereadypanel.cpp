@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "ForceReadyPanel.h"
+#include "forcereadypanel.h"
 #include <vgui/vgui.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/TextImage.h>
@@ -9,9 +9,9 @@
 #include <vgui/ILocalize.h>
 #include <vgui/ISurface.h>
 #include "controller_focus.h"
-#include "WrappedLabel.h"
-#include "ImageButton.h"
-#include "BriefingTooltip.h"
+#include "wrappedlabel.h"
+#include "imagebutton.h"
+#include "briefingtooltip.h"
 #include "nb_header_footer.h"
 #include "nb_button.h"
 #include "asw_gamerules.h"

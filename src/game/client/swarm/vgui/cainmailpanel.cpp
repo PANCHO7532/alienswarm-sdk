@@ -1,10 +1,10 @@
 #include "cbase.h"
-#include "CainMailPanel.h"
+#include "cainmailpanel.h"
 #include <vgui_controls/AnimationController.h>
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/Label.h>
 #include "vgui/ISurface.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

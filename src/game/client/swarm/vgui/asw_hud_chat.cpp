@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:  ASW version of hud_chat.cpp (exclude hud_chat.cpp from build)
 //
@@ -15,7 +15,7 @@
 #include "c_playerresource.h"
 #include "asw_gamerules.h"
 #include "nb_main_panel.h"
-#include "IClientMode.h"
+#include "iclientmode.h"
 #include "vgui_controls/ScrollBar.h"
 
 DECLARE_HUDELEMENT_FLAGS( CHudChat, HUDELEMENT_SS_FULLSCREEN_ONLY );

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -7,8 +7,8 @@
 //===========================================================================//
 #include "cbase.h"
 #include "particles_simple.h"
-#include "IViewRender.h"
-#include "ProxyEntity.h"
+#include "iviewrender.h"
+#include "proxyentity.h"
 #include "materialsystem/IMaterialVar.h"
 #include "model_types.h"
 #include "engine/ivmodelinfo.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A little helper class that computes a spline patch
 //
@@ -11,7 +11,7 @@
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "SplinePatch.h"
+#include "splinepatch.h"
 
 #include "mathlib/VMatrix.h"
 

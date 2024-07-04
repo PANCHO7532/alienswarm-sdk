@@ -8,11 +8,11 @@
 #include <vgui_controls/PanelListPanel.h>
 #include <vgui_controls/HTML.h>
 #include <vgui_controls/ScrollBar.h>
-#include "FileSystem.h"
+#include "filesystem.h"
 #include <vgui_controls/Panel.h>
 #include <vgui/isurface.h>
-#include "SwarmopediaPanel.h"
-#include "SwarmopediaTopics.h"
+#include "swarmopediapanel.h"
+#include "swarmopediatopics.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

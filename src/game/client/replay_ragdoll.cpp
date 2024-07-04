@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,7 +10,7 @@
 #include "replay_ragdoll.h"
 #include "tier1/mempool.h"
 #include "debugoverlay_shared.h"
-#include "FileSystem.h"
+#include "filesystem.h"
 
 //--------------------------------------------------------------------------------
 

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 #define __VATTRACTSCREEN_H__
 
 #include "basemodui.h"
-#include "UIGameData.h"
+#include "uigamedata.h"
 
 namespace BaseModUI {
 

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,8 +9,8 @@
 
 
 #include "basemodui.h"
-#include "VFlyoutMenu.h"
-#include "OptionsSubAudio.h"
+#include "vflyoutmenu.h"
+#include "optionssubaudio.h"
 
 
 #define MAX_DYNAMIC_AUDIO_LANGUAGES 15

@@ -44,7 +44,7 @@
 #include "vcollide_parse.h"
 #include "player_command.h"
 #include "vehicle_base.h"
-#include "AI_Criteria.h"
+#include "ai_criteria.h"
 #include "globals.h"
 #include "usermessages.h"
 #include "gamevars_shared.h"

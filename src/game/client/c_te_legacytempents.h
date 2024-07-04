@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -17,7 +17,7 @@ class C_LocalTempEntity;
 struct model_t;
 
 #include "mempool.h"
-#include "UtlLinkedList.h"
+#include "utllinkedlist.h"
 
 #if defined( SDK_DLL )
 enum

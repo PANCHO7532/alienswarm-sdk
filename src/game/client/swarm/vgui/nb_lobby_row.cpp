@@ -3,7 +3,7 @@
 #include "vgui_controls/ImagePanel.h"
 #include "vgui_controls/Label.h"
 #include "vgui_controls/Panel.h"
-#include "StatsBar.h"
+#include "statsbar.h"
 #include "vgui_bitmapbutton.h"
 #include <vgui/ILocalize.h>
 #include "asw_marine_profile.h"

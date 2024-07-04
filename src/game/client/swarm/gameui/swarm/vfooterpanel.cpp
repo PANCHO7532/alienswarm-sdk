@@ -1,10 +1,10 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VFooterPanel.h"
+#include "vfooterpanel.h"
 #include "vgui/IPanel.h"
 #include "vgui_controls/ImagePanel.h"
 #include "vgui_controls/Controls.h"

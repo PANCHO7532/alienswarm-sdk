@@ -1,13 +1,13 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VVoteOptions.h"
-#include "VFooterPanel.h"
-#include "VGenericConfirmation.h"
-#include "EngineInterface.h"
+#include "vvoteoptions.h"
+#include "vfooterpanel.h"
+#include "vgenericconfirmation.h"
+#include "engineinterface.h"
 #include "gameui_util.h"
 #include "vgui_controls/Button.h"
 

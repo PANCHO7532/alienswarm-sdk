@@ -2,16 +2,16 @@
 
 #include "vgui_controls/ImagePanel.h"
 #include "vgui_controls/TextImage.h"
-#include "WrappedLabel.h"
+#include "wrappedlabel.h"
 #include "c_asw_game_resource.h"
-#include "ObjectiveListBox.h"
-#include "ObjectiveMap.h"
+#include "objectivelistbox.h"
+#include "objectivemap.h"
 #include "c_asw_player.h"
 #include "c_asw_objective.h"
 #include "vgui_controls/AnimationController.h"
-#include "ObjectiveTitlePanel.h"
-#include "ObjectiveDetailsPanel.h"
-#include "ObjectiveIcons.h"
+#include "objectivetitlepanel.h"
+#include "objectivedetailspanel.h"
+#include "objectiveicons.h"
 #include <vgui/ISurface.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

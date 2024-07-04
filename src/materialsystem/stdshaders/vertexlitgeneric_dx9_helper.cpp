@@ -1,11 +1,11 @@
-//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =====//
+//====== Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. =====//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //
 //===========================================================================//
-#include "basevsshader.h"
+#include "BaseVSShader.h"
 #include "vertexlitgeneric_dx9_helper.h"
 #include "phong_dx9_helper.h"
 

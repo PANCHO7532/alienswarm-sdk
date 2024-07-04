@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2007, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -8,10 +8,10 @@
 #if !defined(_STATIC_LINKED) || defined(STDSHADER_DX9_DLL_EXPORT)
 
 #include "cpp_shader_constant_register_map.h"
-#include "basevsshader.h"
+#include "BaseVSShader.h"
 #include "mathlib/vmatrix.h"
 #include "mathlib/bumpvects.h"
-#include "ConVar.h"
+#include "convar.h"
 #include "tier0/icommandline.h"
 
 #ifdef HDR

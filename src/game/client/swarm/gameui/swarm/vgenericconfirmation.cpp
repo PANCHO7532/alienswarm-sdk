@@ -1,10 +1,10 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VGenericConfirmation.h"
+#include "vgenericconfirmation.h"
 
 #include "vgui_controls/Label.h"
 #include "vgui/ISurface.h"

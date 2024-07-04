@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2007, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: shader for drawing sprites as cards, with animation frame lerping
 //
@@ -6,7 +6,7 @@
 // $NoKeywords: $
 //===========================================================================//
 
-#include "basevsshader.h"
+#include "BaseVSShader.h"
 #include "convar.h"
 
 // STDSHADER_DX9_DLL_EXPORT

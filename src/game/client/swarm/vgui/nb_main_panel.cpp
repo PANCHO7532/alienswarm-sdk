@@ -14,7 +14,7 @@
 #include "asw_briefing.h"
 #include <vgui/ILocalize.h>
 #include "asw_marine_profile.h"
-#include "ForceReadyPanel.h"
+#include "forcereadypanel.h"
 #include "asw_gamerules.h"
 #include "KeyValues.h"
 #include "nb_mission_summary.h"

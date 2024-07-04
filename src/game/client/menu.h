@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "UtlVector.h"
+#include "utlvector.h"
 #include "hudelement.h"
 #include <vgui_controls/Panel.h>
 

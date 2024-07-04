@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/Label.h>
-#include "TechMarineFailPanel.h"
+#include "techmarinefailpanel.h"
 #include "iclientmode.h"
 #include "vgui/ISurface.h"
 #include "c_asw_player.h"

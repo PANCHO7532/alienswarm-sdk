@@ -2,14 +2,14 @@
 #include "nb_skill_panel.h"
 #include "vgui_controls/Label.h"
 #include "vgui_controls/ImagePanel.h"
-#include "StatsBar.h"
+#include "statsbar.h"
 #include "vgui_bitmapbutton.h"
 #include "asw_marine_skills.h"
 #include "asw_gamerules.h"
 #include "c_asw_player.h"
 #include "asw_briefing.h"
 #include "asw_marine_profile.h"
-#include "BriefingTooltip.h"
+#include "briefingtooltip.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

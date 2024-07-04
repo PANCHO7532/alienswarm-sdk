@@ -63,7 +63,7 @@
 #endif
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "nav_mesh.h"
-#include "AI_ResponseSystem.h"
+#include "ai_responsesystem.h"
 #include "saverestore_stringtable.h"
 #include "util.h"
 #include "tier0/icommandline.h"

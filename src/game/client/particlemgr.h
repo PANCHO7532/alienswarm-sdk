@@ -118,7 +118,7 @@ entities. Each one is useful under different conditions.
 #include "clientleafsystem.h"
 #include "tier0/fasttimer.h"
 #include "utllinkedlist.h"
-#include "UtlDict.h"
+#include "utldict.h"
 #ifdef WIN32
 #if (defined( _MSC_VER ) && _MSC_VER >= 1900)
 #include <typeinfo>

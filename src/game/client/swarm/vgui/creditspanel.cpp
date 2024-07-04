@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "CreditsPanel.h"
+#include "creditspanel.h"
 #include "asw_gamerules.h"
 #include "asw_campaign_info.h"
 #include <vgui_controls/AnimationController.h>

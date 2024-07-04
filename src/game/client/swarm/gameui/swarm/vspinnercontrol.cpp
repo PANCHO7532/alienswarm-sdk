@@ -1,17 +1,17 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 //=====================================================================================//
 
-#include "VSpinnerControl.h"
+#include "vspinnercontrol.h"
 #include "basemodui.h"
-#include "VFooterPanel.h"
+#include "vfooterpanel.h"
 
 #include "vgui_controls/Label.h"
 #include "tier1/KeyValues.h"
 #include "vgui_controls/Tooltip.h"
-#include "EngineInterface.h"
+#include "engineinterface.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

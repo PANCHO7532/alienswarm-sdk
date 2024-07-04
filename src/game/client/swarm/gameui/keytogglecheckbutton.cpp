@@ -1,12 +1,12 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
 // $NoKeywords: $
 //=============================================================================//
 
-#include "KeyToggleCheckButton.h"
-#include "EngineInterface.h"
+#include "keytogglecheckbutton.h"
+#include "engineinterface.h"
 #include <vgui/IVGui.h>
 #include "IGameUIFuncs.h"
 

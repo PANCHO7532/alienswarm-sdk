@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Client-side CBasePlayer.
 //
@@ -14,7 +14,7 @@
 
 #include "c_playerlocaldata.h"
 #include "c_basecombatcharacter.h"
-#include "playerstate.h"
+#include "PlayerState.h"
 #include "usercmd.h"
 #include "shareddefs.h"
 #include "timedevent.h"
@@ -23,8 +23,8 @@
 #include "hintsystem.h"
 #include "soundemittersystem/isoundemittersystembase.h"
 #include "c_env_fog_controller.h"
-#include "C_PostProcessController.h"
-#include "C_ColorCorrection.h"
+#include "c_postprocesscontroller.h"
+#include "c_colorcorrection.h"
 
 class C_BaseCombatWeapon;
 class C_BaseViewModel;

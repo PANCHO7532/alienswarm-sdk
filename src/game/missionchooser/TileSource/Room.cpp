@@ -1,5 +1,5 @@
 #include "Room.h"
-#include "ChunkFile.h"
+#include "chunkfile.h"
 #include "MapLayout.h"
 #include "RoomTemplate.h"
 #include "LevelTheme.h"

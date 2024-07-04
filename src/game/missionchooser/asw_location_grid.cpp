@@ -3,7 +3,7 @@
 #include "filesystem.h"
 #include "asw_mission_chooser.h"
 #include "asw_key_values_database.h"
-#include "ConVar.h"
+#include "convar.h"
 #include "utlbuffer.h"
 #include "layout_system/tilegen_mission_preprocessor.h"
 

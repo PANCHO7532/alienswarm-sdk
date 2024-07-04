@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "MissionCompleteStatsLine.h"
+#include "missioncompletestatsline.h"
 #include "vgui_controls/AnimationController.h"
 #include "c_asw_marine.h"
 #include "c_asw_marine_resource.h"
@@ -9,10 +9,10 @@
 #include "vgui_controls/label.h"
 #include <vgui/ISurface.h>
 #include <vgui/ILocalize.h>
-#include "MedalArea.h"
-#include "StatsBar.h"
+#include "medalarea.h"
+#include "statsbar.h"
 #include "c_asw_debrief_stats.h"
-#include "BriefingTooltip.h"
+#include "briefingtooltip.h"
 #include "asw_gamerules.h"
 #include "controller_focus.h"
 

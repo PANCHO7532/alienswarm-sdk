@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,7 +10,7 @@
 #include "tempent.h"
 #include "iefx.h"
 #include "decals.h"
-#include "IViewRender.h"
+#include "iviewrender.h"
 #include "engine/ivmodelinfo.h"
 #include "view.h"
 

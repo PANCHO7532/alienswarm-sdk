@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -8,12 +8,12 @@
 #include "cbase.h"
 #include "networkstringtable_clientdll.h"
 #include <KeyValues.h>
-#include "PanelMetaClassMgr.h"
+#include "panelmetaclassmgr.h"
 #include <vgui_controls/Controls.h>
 #include "mathlib/VMatrix.h"
 #include "VGUIMatSurface/IMatSystemSurface.h"
 #include "view.h"
-#include "CollisionUtils.h"
+#include "collisionutils.h"
 #include <vgui/IInput.h>
 #include <vgui/IPanel.h>
 #include <vgui/IVGui.h>
@@ -22,8 +22,8 @@
 #include <vgui/Mousecode.h>
 #include "materialsystem/IMesh.h"
 #include "precache_register.h"
-#include "C_VGuiScreen.h"
-#include "IClientMode.h"
+#include "c_vguiscreen.h"
+#include "iclientmode.h"
 #include "vgui_bitmapbutton.h"
 #include "vgui_bitmappanel.h"
 #include "filesystem.h"

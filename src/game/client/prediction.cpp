@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -15,7 +15,7 @@
 #include <vgui/ISurface.h>
 #include <vgui/IScheme.h>
 #include "hud.h"
-#include "IClientVehicle.h"
+#include "iclientvehicle.h"
 #include "in_buttons.h"
 #include "con_nprint.h"
 #include "hud_pdump.h"

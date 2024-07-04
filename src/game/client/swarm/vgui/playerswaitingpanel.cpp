@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "PlayersWaitingPanel.h"
+#include "playerswaitingpanel.h"
 #include "vgui/isurface.h"
 #include <KeyValues.h>
 #include <vgui_controls/Label.h>

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: This is a panel which is rendered image on top of an entity
 //
@@ -9,7 +9,7 @@
 #ifndef VGUI_ENTITYIMAGEPANEL_H
 #define VGUI_ENTITYIMAGEPANEL_H
 
-#include "vgui_EntityPanel.h"
+#include "vgui_entitypanel.h"
 #include "shareddefs.h"
 
 //-----------------------------------------------------------------------------

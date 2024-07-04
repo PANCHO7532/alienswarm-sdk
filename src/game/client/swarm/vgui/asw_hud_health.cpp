@@ -25,7 +25,7 @@ using namespace vgui;
 #include "asw_marine_profile.h"
 #include "c_asw_marine_resource.h"
 #include "asw_vgui_door_tooltip.h"
-#include "ConVar.h"
+#include "convar.h"
 #include "tier0/vprof.h"
 #include "iasw_client_vehicle.h"
 #include "engine/IVDebugOverlay.h"

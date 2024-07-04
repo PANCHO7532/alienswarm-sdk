@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -22,7 +22,7 @@
 #include "tier0/valve_on.h"
 #include "tier0/memdbgon.h"
 
-#include "FileSystem.h"
+#include "filesystem.h"
 #include "tier0/validator.h"
 
 // vgui includes
