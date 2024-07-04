@@ -1,6 +1,6 @@
 {
     "configurations": [
-        { "name": "Client DLL (Windows) [release-x86]",
+        { "name": "Swarm Client DLL (Windows) [release-x86]",
             "includePath": [
                 "${workspaceFolder}/src/game/client",
                 "${workspaceFolder}/src/game/client/hl2",
@@ -46,7 +46,7 @@
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
         },
-        { "name": "Client DLL (Windows) [debug-x86]",
+        { "name": "Swarm Client DLL (Windows) [debug-x86]",
             "includePath": [
                 "${workspaceFolder}/src/game/client",
                 "${workspaceFolder}/src/game/client/hl2",
@@ -93,7 +93,7 @@
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
         },
-        { "name": "Client DLL (Linux) [release-x86]",
+        { "name": "Swarm Client DLL (Linux) [release-x86]",
             "includePath": [
                 "${workspaceFolder}/src/game/client",
                 "${workspaceFolder}/src/game/client/hl2",
@@ -138,7 +138,7 @@
             "cppStandard": "c++11",
             "intelliSenseMode": "linux-gcc-x86"
         },
-        { "name": "Client DLL (Linux) [debug-x86]",
+        { "name": "Swarm Client DLL (Linux) [debug-x86]",
             "includePath": [
                 "${workspaceFolder}/src/game/client",
                 "${workspaceFolder}/src/game/client/hl2",
@@ -184,7 +184,7 @@
             "cppStandard": "c++11",
             "intelliSenseMode": "linux-gcc-x86"
         },
-        { "name": "MissionChooser (Windows) [release-x86]",
+        { "name": "Swarm MissionChooser (Windows) [release-x86]",
             "includePath": [
                 "${workspaceFolder}/src/game/missionchooser",
                 "${workspaceFolder}/src/game/missionchooser/vgui",
@@ -213,7 +213,7 @@
             "cppStandard": "c++11",
             "intelliSenseMode": "windows-msvc-x86"
         },
-        { "name": "MissionChooser (Windows) [debug-x86]",
+        { "name": "Swarm MissionChooser (Windows) [debug-x86]",
             "includePath": [
                 "${workspaceFolder}/src/game/missionchooser",
                 "${workspaceFolder}/src/game/missionchooser/vgui",
