@@ -2,10 +2,18 @@
 game/bin/*.dll
 game/bin/*.pdb
 game/bin/*.map
+game/*/bin/*.dll
+game/*/bin/*.pdb
+game/*/bin/*.map
 src/lib/public/*.idb
 src/lib/public/*.pdb
+src/lib/public/*.exp
 # shaderlib specific, I might just include all .lib files once we get to rebuild from source every one of them.
 src/lib/public/shaderlib.lib
+# static versions of the dll files
+src/lib/public/client.lib
+src/lib/public/missionchooser.lib
+src/lib/public/server.lib
 
 # Ignore solution and modern project files
 .vs/
