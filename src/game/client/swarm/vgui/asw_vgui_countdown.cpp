@@ -14,7 +14,7 @@
 #include <vgui_controls/AnimationController.h>
 #include <vgui_controls/Label.h>
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "iasw_client_vehicle.h"
 #include "iclientmode.h"
 #include "asw_gamerules.h"

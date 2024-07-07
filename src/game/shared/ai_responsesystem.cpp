@@ -6,7 +6,7 @@
 
 
 #include "cbase.h"
-#include "soundemittersystem/isoundemittersystembase.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "ai_responsesystem.h"
 #include "igamesystem.h"
 #include "ai_criteria.h"

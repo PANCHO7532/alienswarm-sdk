@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "c_asw_shieldbug.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

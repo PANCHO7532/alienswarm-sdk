@@ -1,8 +1,8 @@
 #include "cbase.h"
 #include "vgui_bindpanel.h"
-#include <vgui/ilocalize.h>
-#include <vgui/isurface.h>
-#include <vgui/ivgui.h>
+#include <vgui/ILocalize.h>
+#include <vgui/ISurface.h>
+#include <vgui/IVGui.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "asw_video.h"																																																				    
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "asw_marine_profile.h"
 #include "c_asw_marine.h"
 

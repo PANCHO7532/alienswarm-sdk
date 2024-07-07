@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -14,7 +14,7 @@
 
 #include "vgui_controls/Panel.h"
 #include "datacache/imdlcache.h"
-#include "materialsystem/materialsystemutil.h"
+#include "materialsystem/MaterialSystemUtil.h"
 #include "matsys_controls/potterywheelpanel.h"
 #include "tier3/mdlutils.h"
 

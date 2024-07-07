@@ -68,7 +68,7 @@
 #include "env_wind_shared.h"
 #include "soundenvelope.h"
 #include "IEffects.h"
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "sharedInterface.h"
 #include "renderparm.h"
 

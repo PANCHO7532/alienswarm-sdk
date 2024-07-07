@@ -1,6 +1,6 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
 #include "serveroptionspanel.h"
 #include <vgui_controls/Label.h>
 #include <vgui_controls/ComboBox.h>
@@ -8,7 +8,7 @@
 #include <vgui_controls/CheckButton.h>
 #include <vgui_controls/Button.h>
 #include <vgui_controls/TextImage.h>
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #include "icommandline.h"
 #ifdef CLIENT_DLL
 #include "tier3/tier3.h"
-#include "vgui/ilocalize.h"
+#include "vgui/ILocalize.h"
 #include "achievement_notification_panel.h"
 #include "fmtstr.h"
 #include "cdll_client_int.h"

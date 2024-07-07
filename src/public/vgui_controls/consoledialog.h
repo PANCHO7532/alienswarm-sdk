@@ -12,7 +12,7 @@
 #endif
 
 #include <Color.h>
-#include "tier1/UtlVector.h"
+#include "tier1/utlvector.h"
 #include "vgui_controls/EditablePanel.h"
 #include "vgui_controls/Frame.h"
 #include "icvar.h"

@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include "c_asw_render_targets.h"
 #include "materialsystem\imaterialsystem.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/itexture.h"
 
 ITexture* CASWRenderTargets::InitASWMotionBlurTexture( IMaterialSystem* pMaterialSystem )
 {

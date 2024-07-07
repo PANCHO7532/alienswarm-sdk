@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -24,7 +24,7 @@
 #include "positionwatcher.h"
 #include "vphysics/constraints.h"
 #include "tier0/miniprofiler.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #ifdef IVP_MINIPROFILER
 #include "../ivp/ivp_utility/ivu_miniprofiler.h"
 #else

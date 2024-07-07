@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2007, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. =======
 //
 // Purpose: VGUI panel which can play back video, in-engine
 //
@@ -10,8 +10,8 @@
 #pragma once
 #endif
 
-#include <vgui_controls/panel.h>
-#include <vgui_controls/editablepanel.h>
+#include <vgui_controls/Panel.h>
+#include <vgui_controls/EditablePanel.h>
 #include "avi/ibik.h"
 
 

@@ -22,7 +22,7 @@
 #include "closedcaptions.h"
 #else
 #include <vgui_controls/Controls.h>
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 #include "hud_closecaption.h"
 #ifdef GAMEUI_UISYSTEM2_ENABLED
 #include "gameui.h"

@@ -9,7 +9,7 @@
 #include "objectivemapmarkpanel.h"
 #include "wrappedlabel.h"
 #include "asw_gamerules.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "softline.h"
 #include "chatechopanel.h"
 #include "scanlinepanel.h"

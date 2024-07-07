@@ -17,7 +17,7 @@
 #include "engineinterface.h"
 #include "IGameUIFuncs.h"
 #include "urlbutton.h"
-#include "vgui_controls/frame.h"
+#include "vgui_controls/Frame.h"
 
 
 class CCvarSlider;

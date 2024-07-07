@@ -2,8 +2,8 @@
 #include <vgui/IInput.h>
 #include "vgui_controls/Controls.h"
 #include <vgui/IScheme.h>
-#include <vgui_controls/Scrollbar.h>
-#include <vgui_controls/ScrollbarSlider.h>
+#include <vgui_controls/ScrollBar.h>
+#include <vgui_controls/ScrollBarSlider.h>
 
 #include "ScrollingWindow.h"
 

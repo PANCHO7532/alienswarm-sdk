@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2008, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Tip display during level loads.
 //
@@ -10,9 +10,9 @@
 #pragma once
 #endif
 
-#include "vgui_controls/imagepanel.h"
-#include "vgui_controls/editablepanel.h"
-#include "vgui_controls/label.h"
+#include "vgui_controls/ImagePanel.h"
+#include "vgui_controls/EditablePanel.h"
+#include "vgui_controls/Label.h"
 
 #define MAX_TIP_LENGTH 64
 

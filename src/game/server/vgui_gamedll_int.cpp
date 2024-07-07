@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:
 //
@@ -8,7 +8,7 @@
 #ifdef SERVER_USES_VGUI
 #include "vgui_gamedll_int.h"
 #include "ienginevgui.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include <vgui/IVGui.h>
 #include <vgui/IInput.h>
 #include "tier0/vprof.h"

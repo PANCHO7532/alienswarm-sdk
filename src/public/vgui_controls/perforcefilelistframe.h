@@ -11,7 +11,7 @@
 #pragma once
 #endif
 
-#include "vgui_controls/frame.h"
+#include "vgui_controls/Frame.h"
 #include "tier1/utlvector.h"
 #include "tier1/utlstring.h"
 #include "p4lib/ip4.h"

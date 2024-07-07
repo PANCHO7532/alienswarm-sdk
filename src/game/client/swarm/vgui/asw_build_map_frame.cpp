@@ -1,7 +1,7 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
-#include <vgui/ischeme.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
+#include <vgui/IScheme.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/Button.h>
 #include <vgui_controls/TextImage.h>
@@ -9,7 +9,7 @@
 #include <vgui_controls/ProgressBar.h>
 #include "convar.h"
 #include "asw_build_map_frame.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "ienginevgui.h"
 #include "missionchooser/iasw_mission_chooser_source.h"
 #include "missionchooser/iasw_random_missions.h"

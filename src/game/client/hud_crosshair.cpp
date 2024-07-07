@@ -10,7 +10,7 @@
 #include "hud_crosshair.h"
 #include "iclientmode.h"
 #include "view.h"
-#include "vgui_controls/controls.h"
+#include "vgui_controls/Controls.h"
 #include "vgui/ISurface.h"
 #include "ivrenderview.h"
 

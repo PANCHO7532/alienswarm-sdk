@@ -10,7 +10,7 @@
 #include "c_vguiscreen.h"
 #include "vgui_controls/Label.h"
 #include "vgui_bitmappanel.h"
-#include <vgui/IVGUI.h>
+#include <vgui/IVGui.h>
 #include "c_slideshow_display.h"
 #include "ienginevgui.h"
 #include "fmtstr.h"

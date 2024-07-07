@@ -6,7 +6,7 @@
 #include "asw_marine_profile.h"
 #include "c_asw_game_resource.h"
 #include "c_playerresource.h"
-#include "vgui_controls/label.h"
+#include "vgui_controls/Label.h"
 #include <vgui/ISurface.h>
 #include <vgui/ILocalize.h>
 #include "medalarea.h"

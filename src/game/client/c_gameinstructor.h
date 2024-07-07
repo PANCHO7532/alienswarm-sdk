@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:		Client handler for instruction players how to play
 //
@@ -9,7 +9,7 @@
 
 
 #include "GameEventListener.h"
-#include "vgui_controls/phandle.h"
+#include "vgui_controls/PHandle.h"
 
 class CBaseLesson;
 

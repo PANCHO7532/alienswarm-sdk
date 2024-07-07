@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include <stdarg.h>
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "filesystem.h"
 #include "igamemovement.h"
 #include "engine/IEngineTrace.h"

@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -8,12 +8,12 @@
 #include "cbase.h"
 #include "c_smoke_trail.h"
 #include "fx.h"
-#include "engine/IVDebugOverlay.h"
-#include "engine/ienginesound.h"
+#include "engine/ivdebugoverlay.h"
+#include "engine/IEngineSound.h"
 #include "c_te_effect_dispatch.h"
 #include "glow_overlay.h"
 #include "fx_explosion.h"
-#include "tier1/keyvalues.h"
+#include "tier1/KeyValues.h"
 #include "toolframework_client.h"
 #include "view.h"
 #include "precache_register.h"

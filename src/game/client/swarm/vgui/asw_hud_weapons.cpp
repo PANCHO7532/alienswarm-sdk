@@ -18,7 +18,7 @@
 #include "c_asw_marine.h"
 #include "asw_marine_profile.h"
 #include "c_asw_marine_resource.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "c_asw_pickup.h"
 #include "c_asw_pickup_weapon.h"
 #include "c_asw_door.h"

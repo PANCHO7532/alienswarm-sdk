@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "Mathlib/mathlib.h"
+#include "mathlib/mathlib.h"
 #include "player.h"
 #include "wcedit.h"
 #include "ndebugoverlay.h"

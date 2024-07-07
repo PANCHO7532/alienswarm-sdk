@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 #pragma once
 #endif
 
-#include "vgui/vgui.h"
+#include "vgui/VGUI.h"
 #include "tier1/interface.h"
 #include "tier1/utlsymbol.h"
 

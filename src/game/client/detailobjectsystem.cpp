@@ -17,7 +17,7 @@
 #include "bsptreedata.h"
 #include "tier0/vprof.h"
 #include "engine/ivmodelinfo.h"
-#include "materialsystem/IMesh.h"
+#include "materialsystem/imesh.h"
 #include "model_types.h"
 #include "env_detail_controller.h"
 #include "tier0/icommandline.h"

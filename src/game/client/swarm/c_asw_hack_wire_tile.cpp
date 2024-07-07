@@ -7,9 +7,9 @@
 #include "vgui/asw_vgui_hack_wire_tile.h"
 #include "asw_vgui_frame.h"
 #include "c_asw_button_area.h"
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 #include <vgui_controls/Controls.h>
-#include "vgui_controls/frame.h"
+#include "vgui_controls/Frame.h"
 #include "iclientmode.h"
 #include <vgui/IScheme.h>
 #include "asw_input.h"

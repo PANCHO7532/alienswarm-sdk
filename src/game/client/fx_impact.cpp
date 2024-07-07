@@ -7,7 +7,7 @@
 //===========================================================================//
 #include "cbase.h"
 #include "decals.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 #include "IEffects.h"
 #include "fx.h"
 #include "fx_impact.h"

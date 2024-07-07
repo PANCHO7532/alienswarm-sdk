@@ -3,7 +3,7 @@
 #include "c_asw_mesh_emitter_entity.h"
 #include "c_asw_generic_emitter.h"
 #include "model_types.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "tier0/vprof.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -13,7 +13,7 @@
 #include "c_asw_game_resource.h"
 #include <vgui_controls/AnimationController.h>
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "iinput.h"
 #include "asw_hud_crosshair.h"
 #include "asw_hud_objective.h"

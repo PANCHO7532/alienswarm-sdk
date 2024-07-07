@@ -5,7 +5,7 @@
 #pragma once
 #endif
 
-#include <vgui_controls/panel.h>
+#include <vgui_controls/Panel.h>
 
 //-----------------------------------------------------------------------------
 // Purpose: Panel that displays the key/button for a particular binding

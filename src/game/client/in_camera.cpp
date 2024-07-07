@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 #include "input.h"
 
 #include <vgui/IInput.h>
-#include "vgui_controls/controls.h"
+#include "vgui_controls/Controls.h"
 #include "tier0/vprof.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

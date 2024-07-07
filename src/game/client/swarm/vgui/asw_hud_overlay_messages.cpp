@@ -3,7 +3,7 @@
 #include "hud.h"
 #include "hud_macros.h"
 #include "view.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include <vgui/ISurface.h>
 #include <vgui/ISystem.h>
 #include <vgui_controls/Label.h>
@@ -26,7 +26,7 @@ using namespace vgui;
 
 #include "tier0/vprof.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "asw_gamerules.h"
 #include "asw_marine_skills.h"
 #include "c_asw_ammo_drop.h"

@@ -18,7 +18,7 @@
 #include "vgui_controls/Slider.h"
 #include "vgui_controls/ListPanel.h"
 #include "vgui/IPanel.h"
-#include "vgui/IVgui.h"
+#include "vgui/IVGui.h"
 #include "vgui/ISurface.h"
 #include "vgui/IInput.h"
 #include "vgui/ILocalize.h"

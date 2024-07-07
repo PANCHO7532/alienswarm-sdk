@@ -13,7 +13,7 @@
 #include "filesystem.h"
 #include <KeyValues.h>
 #include "in_buttons.h"
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "soundenvelope.h"
 #include "utldict.h"
 #include "isaverestore.h"

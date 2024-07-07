@@ -10,7 +10,7 @@
 //#pragma warning(disable: 4786)
 
 #include "proxyentity.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 #include "imaterialproxydict.h"
 
 // NOTE: This has to be the last file included!

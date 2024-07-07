@@ -12,7 +12,7 @@
 #include "asw_marine_profile.h"
 #include "vgui_controls/Panel.h"
 #include "asw_model_panel.h"
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 #include <vgui_controls/AnimationController.h>
 #include "asw_gamerules.h"
 

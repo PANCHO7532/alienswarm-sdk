@@ -1,7 +1,7 @@
 //============ Copyright (c) Valve Corporation, All rights reserved. ============
 
 #include "BaseVSShader.h"
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 #include "common_hlsl_cpp_consts.h" // hack hack hack!
 
 #include "lightmappedreflective_vs20.inc"

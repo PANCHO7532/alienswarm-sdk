@@ -22,7 +22,7 @@ using namespace vgui;
 #include "asw_gamerules.h"
 #include "asw_hud_marine_portrait.h"
 
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 
 #include "convar.h"
 #include "tier0/vprof.h"

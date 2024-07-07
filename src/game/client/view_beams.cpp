@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -11,7 +11,7 @@
 #include "beam_shared.h"
 #include "ivieweffects.h"
 #include "beamdraw.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "engine/ivmodelinfo.h"
 #include "view.h"
 #include "fx.h"

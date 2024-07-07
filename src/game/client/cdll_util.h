@@ -21,7 +21,7 @@
 #include "shake.h"
 #include "bitmap/imageformat.h"
 #include "ispatialpartition.h"
-#include "materialsystem/materialsystemutil.h"
+#include "materialsystem/MaterialSystemUtil.h"
 
 class Vector;
 class QAngle;

@@ -7,9 +7,9 @@
 
 #include "gameconsoledialog.h"
 #include "gameui_interface.h"
-#include "vgui/iinput.h"
-#include "vgui/isurface.h"
-#include "vgui/keycode.h"
+#include "vgui/IInput.h"
+#include "vgui/ISurface.h"
+#include "vgui/KeyCode.h"
 #include "loadingdialog.h"
 #include "IGameUIFuncs.h"
 

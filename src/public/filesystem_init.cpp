@@ -25,7 +25,7 @@
 #include "tier0/icommandline.h"
 #include "tier0/stacktools.h"
 #include "KeyValues.h"
-#include "appframework/iappsystemgroup.h"
+#include "appframework/IAppSystemGroup.h"
 #include "tier1/smartptr.h"
 #if defined( _X360 )
 #include "xbox\xbox_win32stubs.h"

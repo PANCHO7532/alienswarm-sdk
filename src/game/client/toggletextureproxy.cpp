@@ -6,9 +6,9 @@
 //=============================================================================//
 #include "cbase.h"
 #include "toggletextureproxy.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/itexture.h"
 #include <KeyValues.h>
 #include "functionproxy.h"
 

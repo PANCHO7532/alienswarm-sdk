@@ -1,7 +1,7 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
-#include <vgui/ischeme.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
+#include <vgui/IScheme.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/PropertySheet.h>
 #include <vgui_controls/Button.h>
@@ -10,7 +10,7 @@
 #include "medalcollectionpanel.h"
 #include "asw_medal_collection_frame.h"
 #include "swarmopediapanel.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "ienginevgui.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -19,7 +19,7 @@
 #include "vgui/ILocalize.h"
 #include "iclientmode.h"
 #include "wrappedlabel.h"
-#include <vgui/mousecode.h>
+#include <vgui/MouseCode.h>
 #include "controller_focus.h"
 #include <vgui_controls/Button.h>
 #include <vgui_controls/TextImage.h>

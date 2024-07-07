@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2007, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ======//
 //
 // Run procedural glint generation inner loop in pixel shader
 //
@@ -7,7 +7,7 @@
 //===========================================================================//
 
 #include "BaseVSShader.h"
-#include "shaderlib/CShader.h"
+#include "shaderlib/cshader.h"
 
 #include "eyeglint_vs20.inc"
 #include "eyeglint_ps20.inc"

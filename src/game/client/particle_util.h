@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #ifndef PARTICLE_UTIL_H
 #define PARTICLE_UTIL_H
 
-#include "materialsystem/IMesh.h"
+#include "materialsystem/imesh.h"
 #include "particledraw.h"
 #include "particlemgr.h"
 #include "cdll_client_int.h"

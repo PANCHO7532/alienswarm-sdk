@@ -3,7 +3,7 @@
 
 #include "iasw_client_usable_entity.h"
 
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 
 class C_ASW_Sentry_Base : public C_BaseAnimating, public IASW_Client_Usable_Entity
 {

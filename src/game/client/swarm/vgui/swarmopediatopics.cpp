@@ -1,6 +1,6 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
 #include <vgui_controls/ListPanel.h>
 #include "swarmopediatopics.h"
 #include "swarmopediapanel.h"

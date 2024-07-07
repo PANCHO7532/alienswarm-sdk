@@ -29,7 +29,7 @@
 #include "engineinterface.h"
 
 #include "vguisystemmoduleloader.h"
-#include "bitmap/TGALoader.h"
+#include "bitmap/tgaloader.h"
 
 #include "gameconsole.h"
 #include "loadingdialog.h"

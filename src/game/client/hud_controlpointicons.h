@@ -17,8 +17,8 @@
 #include <vgui_controls/ImagePanel.h>
 #include "vgui_controls/EditablePanel.h"
 #include "vgui_controls/AnimationController.h"
-#include "vgui_controls/circularprogressbar.h"
-#include <vgui/isurface.h>
+#include "vgui_controls/CircularProgressBar.h"
+#include <vgui/ISurface.h>
 #include "IconPanel.h"
 
 #define PULSE_TIME_PER_ICON		1.5f

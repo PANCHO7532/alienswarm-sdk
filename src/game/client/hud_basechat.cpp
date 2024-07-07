@@ -16,7 +16,7 @@
 #include "text_message.h"
 #include <vgui/ILocalize.h>
 #include "vguicenterprint.h"
-#include "vgui/keycode.h"
+#include "vgui/KeyCode.h"
 #include <KeyValues.h>
 #include "ienginevgui.h"
 #include "c_playerresource.h"

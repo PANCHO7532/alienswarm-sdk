@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -28,9 +28,9 @@
 #include "tier0/vprof.h"
 #include "particles_localspace.h"
 #include "physpropclientside.h"
-#include "tier0/ICommandLine.h"
+#include "tier0/icommandline.h"
 #include "datacache/imdlcache.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "effect_dispatch_data.h"
 #include "c_te_effect_dispatch.h"
 

@@ -7,7 +7,7 @@
 
 #include "cbase.h"
 #include <KeyValues.h>
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "filesystem.h"
 #include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "soundchars.h"

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A shader that builds the shadow using render-to-texture
 //
@@ -8,7 +8,7 @@
 
 #include "BaseVSShader.h"
 #include "convar.h"
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 
 #include "unlitgeneric_vs20.inc"
 #include "shadowbuildtexture_ps20.inc"

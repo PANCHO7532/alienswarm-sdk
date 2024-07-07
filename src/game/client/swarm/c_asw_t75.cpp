@@ -4,7 +4,7 @@
 #include "iefx.h"
 #include <vgui/ISurface.h>
 #include <vgui_controls/Panel.h>
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "asw_util_shared.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 
 #include "BaseVSShader.h"
 #include "tier1/convar.h"
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 #include "eyes_dx8_dx9_helper.h"
 #include "cpp_shader_constant_register_map.h"
 

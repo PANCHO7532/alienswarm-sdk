@@ -1,6 +1,6 @@
 #include "missionchooser_tgaimagepanel.h"
 #include "vgui/ISurface.h"
-#include "bitmap/TGALoader.h"
+#include "bitmap/tgaloader.h"
 #include "TileGenDialog.h"
 
 using namespace vgui;

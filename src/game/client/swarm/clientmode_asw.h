@@ -7,7 +7,7 @@
 #include "clientmode_shared.h"
 #include <vgui_controls/EditablePanel.h>
 #include <vgui/Cursor.h>
-#include "GameUI/igameui.h"
+#include "GameUI/IGameUI.h"
 
 class CHudViewport;
 

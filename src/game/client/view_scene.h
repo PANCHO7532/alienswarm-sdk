@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -16,7 +16,7 @@
 #include "iviewrender.h"
 #include "view_shared.h"
 #include "rendertexture.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/itexture.h"
 
 
 extern ConVar mat_wireframe;

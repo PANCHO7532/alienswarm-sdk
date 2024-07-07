@@ -2,7 +2,7 @@
 #include "c_te_effect_dispatch.h"
 #include "engine/IEngineSound.h"
 #include "shareddefs.h"
-#include "soundemittersystem/isoundemittersystembase.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "c_asw_marine.h"
 #include "c_asw_player.h"
 #include "asw_marine_profile.h"

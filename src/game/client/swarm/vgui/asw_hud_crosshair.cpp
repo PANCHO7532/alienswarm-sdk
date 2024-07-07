@@ -3,7 +3,7 @@
 #include "asw_hud_crosshair.h"
 #include "iclientmode.h"
 #include "view.h"
-#include "vgui_controls/controls.h"
+#include "vgui_controls/Controls.h"
 #include "vgui/ISurface.h"
 #include "vgui/Cursor.h"
 #include "ivrenderview.h"
@@ -15,10 +15,10 @@
 #include "asw_hud_minimap.h" // asw
 #include "tier0/vprof.h"
 #include <vgui/ILocalize.h>
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include <vgui/ISurface.h>
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "asw_remote_turret_shared.h"
 #include "iasw_client_aim_target.h"
 #include "c_asw_alien.h"

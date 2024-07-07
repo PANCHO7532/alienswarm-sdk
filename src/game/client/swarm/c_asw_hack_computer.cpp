@@ -8,9 +8,9 @@
 #include "asw_vgui_computer_frame.h"
 #include "asw_vgui_computer_menu.h"
 #include "asw_vgui_frame.h"
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 #include <vgui_controls/Controls.h>
-#include "vgui_controls/frame.h"
+#include "vgui_controls/Frame.h"
 #include "iclientmode.h"
 #include <vgui/IScheme.h>
 #include "asw_input.h"

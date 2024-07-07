@@ -16,9 +16,9 @@
 #include "iclientmode.h"
 #include "weapon_selection.h"
 
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 #include <vgui/ISurface.h>
-#include <vgui/ilocalize.h>
+#include <vgui/ILocalize.h>
 #include <KeyValues.h>
 #include <vgui_controls/AnimationController.h>
 

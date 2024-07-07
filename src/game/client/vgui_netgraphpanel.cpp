@@ -12,19 +12,19 @@
 #include "kbutton.h"
 #include <inetchannelinfo.h>
 #include "input.h"
-#include <vgui/IVgui.h>
-#include "VguiMatSurface/IMatSystemSurface.h"
+#include <vgui/IVGui.h>
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include <vgui_controls/Panel.h>
 #include <vgui_controls/Controls.h>
 #include <vgui/ISurface.h>
 #include <vgui/IScheme.h>
-#include <vgui/ilocalize.h>
+#include <vgui/ILocalize.h>
 #include "tier0/vprof.h"
 #include "cdll_bounded_cvars.h"
 
-#include "materialsystem/IMaterialSystem.h"
-#include "materialsystem/IMesh.h"
-#include "materialsystem/IMaterial.h"
+#include "materialsystem/imaterialsystem.h"
+#include "materialsystem/imesh.h"
+#include "materialsystem/imaterial.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

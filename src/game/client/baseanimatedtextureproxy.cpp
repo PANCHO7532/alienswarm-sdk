@@ -6,9 +6,9 @@
 //=============================================================================//
 #include "cbase.h"
 #include "baseanimatedtextureproxy.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/itexture.h"
 #include "tier1/KeyValues.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

@@ -10,8 +10,8 @@
 #include <KeyValues.h>
 #include "panelmetaclassmgr.h"
 #include <vgui_controls/Controls.h>
-#include "mathlib/VMatrix.h"
-#include "VGUIMatSurface/IMatSystemSurface.h"
+#include "mathlib/vmatrix.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "view.h"
 #include "collisionutils.h"
 #include <vgui/IInput.h>
@@ -19,8 +19,8 @@
 #include <vgui/IVGui.h>
 #include "ienginevgui.h"
 #include "in_buttons.h"
-#include <vgui/Mousecode.h>
-#include "materialsystem/IMesh.h"
+#include <vgui/MouseCode.h>
+#include "materialsystem/imesh.h"
 #include "precache_register.h"
 #include "c_vguiscreen.h"
 #include "iclientmode.h"

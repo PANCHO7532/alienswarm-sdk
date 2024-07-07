@@ -5,9 +5,9 @@
 #include <filesystem.h>
 #include "fmtstr.h"
 #include "convar.h"
-#include "vgui/ivgui.h"
-#include "vgui_controls/combobox.h"
-#include "vgui_controls/checkbutton.h"
+#include "vgui/IVGui.h"
+#include "vgui_controls/ComboBox.h"
+#include "vgui_controls/CheckButton.h"
 #include "vgui_controls/ScrollBar.h"
 #include "iclientmode.h"
 #include "vgui_controls/Slider.h"

@@ -1,10 +1,10 @@
-//========= Copyright © 1996-2009, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2009, Valve Corporation, All rights reserved. ============//
 
 #include "BaseVSShader.h"
 #include "flesh_helper.h"
 #include "cpp_shader_constant_register_map.h"
 /*
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 #include "convar.h"
 */
 

@@ -1,7 +1,7 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
-#include <vgui/ischeme.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
+#include <vgui/IScheme.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/PropertySheet.h>
 #include "convar.h"
@@ -9,7 +9,7 @@
 #include "asw_mission_chooser_frame.h"
 #include "asw_difficulty_chooser.h"
 #include "serveroptionspanel.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include <vgui/IInput.h>
 #include "vgui_controls/AnimationController.h"
 #include "ienginevgui.h"

@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -10,8 +10,8 @@
 #pragma once
 #endif
 
-#include "matsys_controls/BaseAssetPicker.h"
-#include "materialsystem/materialsystemutil.h"
+#include "matsys_controls/baseassetpicker.h"
+#include "materialsystem/MaterialSystemUtil.h"
 
 //-----------------------------------------------------------------------------
 // Forward declarations

@@ -8,7 +8,7 @@
 #include "c_asw_marine.h"
 #include "particles_simple.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "baseparticleentity.h"
 #define CASW_Marine C_ASW_Marine
 #else

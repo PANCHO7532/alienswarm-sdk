@@ -9,7 +9,7 @@
 #include "particles_simple.h"
 #include "c_asw_trail_beam.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #define CASW_Marine C_ASW_Marine
 #else
 #include "asw_marine.h"

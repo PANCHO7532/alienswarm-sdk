@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -13,7 +13,7 @@
 #endif
 
 #include "tier1/interface.h"
-#include "tier1/keyvalues.h"
+#include "tier1/KeyValues.h"
 #include <vgui/VGUI.h>
 #include <vgui/KeyCode.h>
 

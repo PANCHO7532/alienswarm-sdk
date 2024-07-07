@@ -1,6 +1,6 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/Label.h>
 #include <vgui_controls/TextImage.h>
@@ -9,7 +9,7 @@
 #include "KeyValues.h"
 #include "filesystem.h"
 #include <vgui_controls/Panel.h>
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "asw_mission_chooser_entry.h"
 #include "asw_mission_chooser_list.h"
 #include <vgui/IInput.h>

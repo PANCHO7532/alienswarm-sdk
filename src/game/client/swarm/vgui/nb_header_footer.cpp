@@ -5,7 +5,7 @@
 #include <vgui/ISurface.h>
 #include "vgui_hudvideo.h"
 #include "asw_video.h"
-#include "VGUIMatSurface/IMatSystemSurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "asw_gamerules.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

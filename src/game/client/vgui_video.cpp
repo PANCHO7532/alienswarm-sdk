@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2007, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. =======
 //
 // Purpose: VGUI panel which can play back video, in-engine
 //
@@ -11,7 +11,7 @@
 #include "ienginevgui.h"
 #include "iclientmode.h"
 #include "vgui_video.h"
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

@@ -1,4 +1,4 @@
-//======= Copyright © 1996-2006, Valve Corporation, All rights reserved. ======
+//======= Copyright ï¿½ 1996-2006, Valve Corporation, All rights reserved. ======
 //
 // Purpose:
 //
@@ -31,12 +31,12 @@
 
 #include "tier1/stringpool.h"
 #include "tier1/utlstring.h"
-#include "tier1/utlstringmap.h"
+#include "tier1/UtlStringMap.h"
 #include "tier1/utlvector.h"
 #include "tier1/interface.h"
 #include "mathlib/mathlib.h"
 
-#include "ValveMaya/Undo.h"
+#include "valveMaya/Undo.h"
 
 //-----------------------------------------------------------------------------
 // Forward declarations

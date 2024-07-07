@@ -9,7 +9,7 @@
 #include "hudelement.h"
 #include "c_playerresource.h"
 #include "iclientmode.h"
-#include <vgui_controls/controls.h>
+#include <vgui_controls/Controls.h>
 #include <vgui_controls/Panel.h>
 #include <vgui/ISurface.h>
 #include <vgui/ILocalize.h>

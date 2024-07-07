@@ -22,7 +22,7 @@
 #include "tier0/vprof.h"
 #include "fx_line.h"
 #include "interface.h"
-#include "materialsystem/IMaterialSystem.h"
+#include "materialsystem/imaterialsystem.h"
 #include "soundinfo.h"
 #include "mathlib/vmatrix.h"
 #include "isaverestore.h"

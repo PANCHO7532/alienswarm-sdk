@@ -7,8 +7,8 @@
 #pragma once
 #endif
 
-#include <vgui_controls/button.h>
-#include <vgui/isurface.h>
+#include <vgui_controls/Button.h>
+#include <vgui/ISurface.h>
 
 //--------------------------------------------------------------------------------------------------------
 /**

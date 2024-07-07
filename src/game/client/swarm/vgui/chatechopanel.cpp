@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "chatechopanel.h"
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 #include "ienginevgui.h"
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/TextEntry.h>

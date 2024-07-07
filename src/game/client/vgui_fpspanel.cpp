@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #include <vgui_controls/Panel.h>
 #include "view.h"
 #include <vgui/IVGui.h>
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include <vgui_controls/Controls.h>
 #include <vgui/ISurface.h>
 #include <vgui/IScheme.h>

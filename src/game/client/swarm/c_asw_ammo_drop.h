@@ -4,7 +4,7 @@
 #include "iasw_client_usable_entity.h"
 #include "glow_outline_effect.h"
 
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 
 class C_ASW_Marine;
 class C_ASW_Weapon;

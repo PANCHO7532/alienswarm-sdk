@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 #include "hud_closecaption.h"
 #include "tier1/strtools.h"
 #include <vgui_controls/Controls.h>
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 #include <vgui/ISurface.h>
 #include <vgui/IScheme.h>
 #include <vgui/ILocalize.h>
@@ -21,7 +21,7 @@
 #include "checksum_crc.h"
 #include "filesystem.h"
 #include "datacache/idatacache.h"
-#include "soundemittersystem/isoundemittersystembase.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "tier3/tier3.h"
 #ifdef INFESTED_DLL
 	#include "asw_input.h"

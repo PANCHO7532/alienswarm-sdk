@@ -12,8 +12,8 @@
 //=============================================================================//
 #include "cbase.h"
 #include "fx_discreetline.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/IMesh.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/imesh.h"
 #include "view.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

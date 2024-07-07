@@ -14,7 +14,7 @@
 
 #include "igamesystem.h"
 #include "icliententityinternal.h"
-#include "engine/IVModelRender.h"
+#include "engine/ivmodelrender.h"
 #include "mathlib/vector.h"
 #include "ivrenderview.h"
 

@@ -15,7 +15,7 @@
 #include "sceneentity.h"
 #endif
 
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "KeyValues.h"
 #include "ai_criteria.h"
 #include "isaverestore.h"

@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include "missioncompleteframe.h"
 #include "missioncompletepanel.h"
-#include "vgui\CampaignPanel.h"
+#include "vgui\campaignpanel.h"
 #include "vgui\asw_hud_chat.h"
 #include "clientmode_asw.h"
 #include "asw_gamerules.h"

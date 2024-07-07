@@ -14,9 +14,9 @@
 #include "c_asw_clientragdoll.h"
 
 #include "proxyentity.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/IMaterialSystem.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/imaterialsystem.h"
 #include <KeyValues.h>
 
 #include "imaterialproxydict.h"

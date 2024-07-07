@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "playerswaitingpanel.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include <KeyValues.h>
 #include <vgui_controls/Label.h>
 #include "c_asw_game_resource.h"

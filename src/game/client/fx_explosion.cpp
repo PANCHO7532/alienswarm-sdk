@@ -12,7 +12,7 @@
 #include "tempentity.h"
 #include "iefx.h"
 #include "engine/IEngineSound.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "c_te_effect_dispatch.h"
 #include "fx.h"
 #include "fx_quad.h"

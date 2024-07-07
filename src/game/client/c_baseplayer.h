@@ -21,7 +21,7 @@
 #include "smartptr.h"
 #include "fx_water.h"
 #include "hintsystem.h"
-#include "soundemittersystem/isoundemittersystembase.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "c_env_fog_controller.h"
 #include "c_postprocesscontroller.h"
 #include "c_colorcorrection.h"

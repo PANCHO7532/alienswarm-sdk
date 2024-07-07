@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2007, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -18,7 +18,7 @@
 #include "tier1/memstack.h"
 #include "engine/ivdebugoverlay.h"
 #include "shaderapi/ishaderapi.h"
-#include "materialsystem/materialsystemutil.h"
+#include "materialsystem/MaterialSystemUtil.h"
 #include "tier0/vprof.h"
 
 // NOTE: This has to be the last file included!

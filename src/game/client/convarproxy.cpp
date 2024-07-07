@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2008, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ============//
 //
 // Material proxy to stuff a convar into a material var.
 //
@@ -10,8 +10,8 @@
 //#pragma warning(disable: 4786)
 
 #include "convar.h"
-#include "MaterialSystem/imaterialproxy.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialproxy.h"
+#include "materialsystem/imaterialvar.h"
 #include "imaterialproxydict.h"
 
 // NOTE: This has to be the last file included!

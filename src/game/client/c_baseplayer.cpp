@@ -40,7 +40,7 @@
 #include "view_scene.h"
 #include "c_vguiscreen.h"
 #include "datacache/imdlcache.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "voice_status.h"
 #include "fx.h"
 #include "cellcoord.h"

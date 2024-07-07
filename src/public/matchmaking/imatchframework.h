@@ -15,7 +15,7 @@
 class IMatchFramework;
 class IMatchSession;
 
-#include "appframework/iAppSystem.h"
+#include "appframework/IAppSystem.h"
 
 #include "tier1/interface.h"
 #include "KeyValues.h"

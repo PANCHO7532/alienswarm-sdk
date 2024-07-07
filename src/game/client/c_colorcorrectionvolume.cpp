@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Color correction entity.
 //
@@ -8,7 +8,7 @@
 
 #include "filesystem.h"
 #include "cdll_client_int.h"
-#include "materialsystem/materialsystemutil.h"
+#include "materialsystem/MaterialSystemUtil.h"
 #include "colorcorrectionmgr.h"
 #include "c_triggers.h"
 

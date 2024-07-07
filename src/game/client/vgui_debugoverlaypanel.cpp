@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -8,9 +8,9 @@
 #include "cbase.h"
 #include "idebugoverlaypanel.h"
 #include "overlaytext.h"
-#include <vgui/IVgui.h>
-#include "engine/IVDebugOverlay.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include <vgui/IVGui.h>
+#include "engine/ivdebugoverlay.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include <vgui_controls/Panel.h>
 #include <vgui_controls/Controls.h>
 #include <vgui/IScheme.h>

@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2006, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2006, Valve Corporation, All rights reserved. ============//
 
 /* Example how to plug this into an existing shader:
 
@@ -85,7 +85,7 @@
 ==================================================================================================== */
 
 #include "BaseVSShader.h"
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 #include "emissive_scroll_blended_pass_helper.h"
 #include "convar.h"
 

@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include <vgui_controls/Panel.h>
 #include "asw_scalable_text.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

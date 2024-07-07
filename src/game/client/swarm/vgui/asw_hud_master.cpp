@@ -5,7 +5,7 @@
 #include "bitmap/psheet.h"
 #include "vgui/ILocalize.h"
 #include "cdll_bounded_cvars.h"
-#include "VGUIMatSurface/IMatSystemSurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "hud_macros.h"
 #include "ammodef.h"
 #include "asw_input.h"

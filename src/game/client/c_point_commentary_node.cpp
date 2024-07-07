@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -9,7 +9,7 @@
 #include "hudelement.h"
 #include "clientmode.h"
 #include <vgui_controls/Panel.h>
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include <vgui/ILocalize.h>
 #include <vgui/IScheme.h>
 #include <vgui_controls/AnimationController.h>

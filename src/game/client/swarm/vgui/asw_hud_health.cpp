@@ -28,8 +28,8 @@ using namespace vgui;
 #include "convar.h"
 #include "tier0/vprof.h"
 #include "iasw_client_vehicle.h"
-#include "engine/IVDebugOverlay.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "engine/ivdebugoverlay.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "asw_input.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

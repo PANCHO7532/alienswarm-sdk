@@ -8,7 +8,7 @@
 #include "c_asw_pickup.h"
 #include "kbutton.h"
 #include "cdll_int.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "iasw_client_aim_target.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

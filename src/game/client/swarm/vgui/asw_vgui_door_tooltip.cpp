@@ -15,10 +15,10 @@
 #include "c_asw_game_resource.h"
 #include <vgui_controls/AnimationController.h>
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "iasw_client_vehicle.h"
 #include "iinput.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "datacache/imdlcache.h"
 #include "asw_input.h"
 

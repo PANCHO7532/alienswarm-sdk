@@ -6,10 +6,10 @@
 //=============================================================================//
 #include "cbase.h"
 #include <KeyValues.h>
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/ITexture.h"
-#include "materialsystem/IMaterialSystem.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/itexture.h"
+#include "materialsystem/imaterialsystem.h"
 #include "functionproxy.h"
 
 #include "imaterialproxydict.h"

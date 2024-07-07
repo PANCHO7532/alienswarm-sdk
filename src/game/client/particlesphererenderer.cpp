@@ -6,7 +6,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "particlesphererenderer.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

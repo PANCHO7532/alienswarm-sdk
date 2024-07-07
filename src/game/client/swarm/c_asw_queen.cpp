@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "c_asw_queen.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "asw_shareddefs.h"
 #include "asw_util_shared.h"
 #include "tier0/vprof.h"

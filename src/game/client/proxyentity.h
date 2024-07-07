@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: A base class for all material proxies in the client dll
 //
@@ -8,7 +8,7 @@
 #ifndef PROXY_ENTITY_H
 #define PROXY_ENTITY_H
 
-#include "materialsystem/IMaterialProxy.h"
+#include "materialsystem/imaterialproxy.h"
 
 
 class IMaterialVar;

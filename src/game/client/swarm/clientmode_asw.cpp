@@ -43,7 +43,7 @@
 #include "asw_logo_panel.h"
 #include "c_user_message_register.h"
 #include "inetchannelinfo.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "debugoverlay_shared.h"
 #include "viewpostprocess.h"
 #include "shaderapi/ishaderapi.h"

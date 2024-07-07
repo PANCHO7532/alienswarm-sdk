@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Floating numbers
 //
@@ -8,8 +8,8 @@
 #include "hudelement.h"
 #include "hud_macros.h"
 #include <game_controls/baseviewport.h>
-#include <vgui_controls/controls.h>
-#include <vgui_controls/panel.h>
+#include <vgui_controls/Controls.h>
+#include <vgui_controls/Panel.h>
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/TextImage.h>
 #include "vgui/ILocalize.h"
@@ -20,7 +20,7 @@
 #include <vgui_controls/AnimationController.h>
 #include "fmtstr.h"
 #include "engine/IEngineSound.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

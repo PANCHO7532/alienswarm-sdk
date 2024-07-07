@@ -17,7 +17,7 @@
 #include "functionproxy.h"
 #include "imaterialproxydict.h"
 #include "proxyentity.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 #include "materialsystem/itexture.h"
 //#include "c_asw_physics_prop_statue.h"
 #include "c_asw_mesh_emitter_entity.h"

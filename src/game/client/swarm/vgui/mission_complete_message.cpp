@@ -3,7 +3,7 @@
 #include "vgui_controls/Label.h"
 #include "vgui_controls/ImagePanel.h"
 #include "vgui_controls/TextEntry.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "asw_scalable_text.h"
 #include "asw_gamerules.h"
 

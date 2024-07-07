@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,9 +6,9 @@
 //=============================================================================//
 #include "cbase.h"
 #include <KeyValues.h>
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/itexture.h"
 #include "proxyentity.h"
 #include "functionproxy.h"
 

@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include "vgui\PlayerListContainer.h"
+#include "vgui\playerlistcontainer.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

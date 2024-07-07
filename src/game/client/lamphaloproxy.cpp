@@ -6,8 +6,8 @@
 //=============================================================================//
 #include "cbase.h"
 #include "proxyentity.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/IMaterial.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/imaterial.h"
 #include "view.h"
 
 #include "imaterialproxydict.h"

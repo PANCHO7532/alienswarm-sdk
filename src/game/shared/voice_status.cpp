@@ -12,7 +12,7 @@
 #include "voice_status.h"
 #include "r_efx.h"
 #include <vgui_controls/TextImage.h>
-#include <vgui/mousecode.h>
+#include <vgui/MouseCode.h>
 #include "cdll_client_int.h"
 #include "hud_macros.h"
 #include "c_playerresource.h"

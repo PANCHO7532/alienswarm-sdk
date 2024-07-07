@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 // $NoKeywords: $
 //=============================================================================//
 
-#include "shaderlib/CShader.h"
+#include "shaderlib/cshader.h"
 
 #include "debugtangentspace_vs20.inc"
 #include "unlitgeneric_notexture_ps20.inc"

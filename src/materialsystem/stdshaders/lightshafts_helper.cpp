@@ -1,7 +1,7 @@
-//========= Copyright © 1996-2007, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ============//
 
 #include "BaseVSShader.h"
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 #include "lightshafts_helper.h"
 #include "convar.h"
 

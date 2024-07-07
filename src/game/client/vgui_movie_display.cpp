@@ -8,15 +8,15 @@
 #include "c_vguiscreen.h"
 #include "vgui_controls/Label.h"
 #include "vgui_bitmappanel.h"
-#include <vgui/IVGUI.h>
+#include <vgui/IVGui.h>
 #include "c_slideshow_display.h"
 #include "ienginevgui.h"
 #include "fmtstr.h"
 #include "vgui_controls/ImagePanel.h"
 #include <vgui/ISurface.h>
 #include "avi/ibik.h"
-#include "engine/ienginesound.h"
-#include "VGUIMatSurface/IMatSystemSurface.h"
+#include "engine/IEngineSound.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "c_movie_display.h"
 
 // NOTE: This has to be the last file included!

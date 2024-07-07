@@ -2,7 +2,7 @@
 #include "asw_vgui_manipulator.h"
 #include "vgui_controls/Button.h"
 #include "vgui_controls/Label.h"
-#include <vgui/iinput.h>
+#include <vgui/IInput.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

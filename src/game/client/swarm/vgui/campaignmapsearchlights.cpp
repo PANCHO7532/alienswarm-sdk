@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "campaignmapsearchlights.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "asw_gamerules.h"
 #include "asw_campaign_info.h"
 #include <KeyValues.h>

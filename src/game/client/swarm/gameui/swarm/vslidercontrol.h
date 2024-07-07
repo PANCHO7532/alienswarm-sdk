@@ -2,7 +2,7 @@
 #define VSLIDERCONTORL_H
 
 #include "basemodui.h"
-#include "vgui/mousecode.h"
+#include "vgui/MouseCode.h"
 
 class CGameUIConVarRef;
 

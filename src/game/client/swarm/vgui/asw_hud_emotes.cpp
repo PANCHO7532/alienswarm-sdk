@@ -26,8 +26,8 @@
 #include "convar.h"
 #include "tier0/vprof.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "engine/ivdebugoverlay.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "tier1/fmtstr.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

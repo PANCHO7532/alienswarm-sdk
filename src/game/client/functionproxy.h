@@ -9,7 +9,7 @@
 #ifndef FUNCTIONPROXY_H
 #define FUNCTIONPROXY_H
 
-#include "materialsystem/IMaterialProxy.h"
+#include "materialsystem/imaterialproxy.h"
 #include "materialsystem/imaterialvar.h"
 
 class IMaterialVar;

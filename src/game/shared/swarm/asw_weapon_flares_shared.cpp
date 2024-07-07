@@ -15,7 +15,7 @@
 #include "shot_manipulator.h"
 #include "asw_flare_projectile.h"
 #endif
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "asw_util_shared.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

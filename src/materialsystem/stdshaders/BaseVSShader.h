@@ -15,7 +15,7 @@
 
 #include "cpp_shader_constant_register_map.h"
 #include "shaderlib/cshader.h"
-#include "shaderlib/baseshader.h"
+#include "shaderlib/BaseShader.h"
 #include "convar.h"
 #include <renderparm.h>
 

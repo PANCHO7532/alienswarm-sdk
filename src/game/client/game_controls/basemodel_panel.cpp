@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2008, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -8,7 +8,7 @@
 #include "basemodel_panel.h"
 #include "activitylist.h"
 #include "animation.h"
-#include "vgui/iinput.h"
+#include "vgui/IInput.h"
 #include "matsys_controls/manipulator.h"
 
 using namespace vgui;

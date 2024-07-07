@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2006, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2006, Valve Corporation, All rights reserved. ============//
 //
 // Purpose:
 //
@@ -6,7 +6,7 @@
 
 #include "cbase.h"
 #include "vgui/IInput.h"
-#include <vgui/IVGUI.h>
+#include <vgui/IVGui.h>
 #include "commentary_modelviewer.h"
 #include "iclientmode.h"
 #include "baseviewport.h"

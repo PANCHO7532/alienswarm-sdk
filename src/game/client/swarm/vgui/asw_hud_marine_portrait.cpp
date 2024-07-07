@@ -4,7 +4,7 @@
 #include "asw_marine_profile.h"
 #include "c_asw_marine_resource.h"
 #include "c_asw_game_resource.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/Label.h>
 #include "vgui_hudvideo.h"

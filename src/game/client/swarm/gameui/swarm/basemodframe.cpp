@@ -20,7 +20,7 @@
 #include "vgui/IInput.h"
 #include "vgui_controls/Tooltip.h"
 #include "vgui_controls/ImagePanel.h"
-#include "vgui/ilocalize.h"
+#include "vgui/ILocalize.h"
 
 #include "filesystem.h"
 #include "fmtstr.h"

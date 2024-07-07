@@ -8,7 +8,7 @@
 #include "toolframework/itoolentity.h"
 #include "tier1/KeyValues.h"
 #include "Sprite.h"
-#include "engineSprite.h"
+#include "enginesprite.h"
 #include "beamdraw.h"
 #include "toolframework_client.h"
 #include "particles/particles.h"

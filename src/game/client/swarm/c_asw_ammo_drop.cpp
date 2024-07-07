@@ -6,7 +6,7 @@
 #include <vgui/ISurface.h>
 #include <vgui_controls/Panel.h>
 #include <vgui/ILocalize.h>
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "asw_util_shared.h"
 #include "ammodef.h"
 #include "c_asw_player.h"

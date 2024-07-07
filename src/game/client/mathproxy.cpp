@@ -6,9 +6,9 @@
 //=============================================================================//
 #include "cbase.h"
 #include "sharedInterface.h"
-#include "materialsystem/IMaterial.h"
+#include "materialsystem/imaterial.h"
 #include <KeyValues.h>
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 #include "functionproxy.h"
 
 #include "imaterialproxydict.h"

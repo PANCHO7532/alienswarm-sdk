@@ -4,7 +4,7 @@
 #include "iclientmode.h"
 #include "clientmode_shared.h"
 #include "view.h"
-#include "vgui_controls/controls.h"
+#include "vgui_controls/Controls.h"
 #include "vgui/ISurface.h"
 #include "vgui/Cursor.h"
 #include "ivrenderview.h"
@@ -16,7 +16,7 @@
 #include "c_asw_game_resource.h"
 #include "asw_gamerules.h"
 #include "tier0/vprof.h"
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 #include "usermessages.h"
 #include "c_asw_player.h"
 

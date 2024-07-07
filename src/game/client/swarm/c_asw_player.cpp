@@ -29,9 +29,9 @@
 #include "shake.h"
 
 // VGUI
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 #include <vgui_controls/Controls.h>
-#include "vgui_controls/frame.h"
+#include "vgui_controls/Frame.h"
 #include "vgui_controls/Label.h"
 #include <vgui_controls/PHandle.h>
 #include <vgui_controls/Button.h>
@@ -40,7 +40,7 @@
 
 // ASW HUD
 #include "vgui\asw_vgui_info_message.h"
-#include "vgui\FadeInPanel.h"
+#include "vgui\fadeinpanel.h"
 #include "vgui\asw_vgui_ingame_panel.h"
 #include "asw_vgui_stylin_cam.h"
 #include "asw_hud_crosshair.h"
@@ -56,7 +56,7 @@
 #include "missioncompleteframe.h"
 #include "briefingframe.h"
 #include "clientmode_asw.h"
-#include "vgui\PlayerListContainer.h"
+#include "vgui\playerlistcontainer.h"
 #include "asw_loading_panel.h"
 
 // ASW Game

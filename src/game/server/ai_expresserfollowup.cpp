@@ -15,9 +15,9 @@
 #include "basemultiplayerplayer.h"
 #include "ai_baseactor.h"
 //#include "flex_expresser.h"
-#include "scenefilecache/iscenefilecache.h"
+#include "scenefilecache/ISceneFileCache.h"
 /*
-#include "engine/ienginesound.h"
+#include "engine/IEngineSound.h"
 #include "KeyValues.h"
 #include "ai_criteria.h"
 #include "isaverestore.h"

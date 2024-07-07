@@ -6,7 +6,7 @@
 //=============================================================================//
 #include "cbase.h"
 #include "c_ai_basenpc.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 
 #if defined( HL2_DLL ) || defined( HL2_EPISODIC )
 #include "c_basehlplayer.h"

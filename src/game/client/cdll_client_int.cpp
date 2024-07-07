@@ -25,7 +25,7 @@
 #include "filesystem.h"
 #include "c_te_legacytempents.h"
 #include "c_rope.h"
-#include "engine/IShadowMgr.h"
+#include "engine/ishadowmgr.h"
 #include "engine/IStaticPropMgr.h"
 #include "hud_basechat.h"
 #include "hud_crosshair.h"
@@ -35,10 +35,10 @@
 #include "soundenvelope.h"
 #include "c_basetempentity.h"
 #include "materialsystem/imaterialsystemstub.h"
-#include "vguimatsurface/IMatSystemSurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "materialsystem/imaterialsystemhardwareconfig.h"
 #include "c_soundscape.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "vguicenterprint.h"
 #include "iviewrender_beams.h"
 #include "tier0/vprof.h"
@@ -64,7 +64,7 @@
 #include "bitmap/tgawriter.h"
 #include "c_world.h"
 #include "perfvisualbenchmark.h"	
-#include "soundemittersystem/isoundemittersystembase.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
 #include "hud_closecaption.h"
 #include "colorcorrectionmgr.h"
 #include "physpropclientside.h"
@@ -136,7 +136,7 @@
 
 #endif
 
-#include "tier1/UtlDict.h"
+#include "tier1/utldict.h"
 #include "keybindinglistener.h"
 
 // P7: Visual Studio 2015 and onwards made the following function undefined, breaking the current jpeglib version.

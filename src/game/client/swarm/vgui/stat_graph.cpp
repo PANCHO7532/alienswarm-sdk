@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "stat_graph.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "vgui_controls/AnimationController.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

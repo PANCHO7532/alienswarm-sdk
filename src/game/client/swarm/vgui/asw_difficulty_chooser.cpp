@@ -1,14 +1,14 @@
 #include "cbase.h"
-#include "vgui/ivgui.h"
-#include <vgui/vgui.h>
-#include <vgui/ischeme.h>
+#include "vgui/IVGui.h"
+#include <vgui/VGUI.h>
+#include <vgui/IScheme.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/Button.h>
 #include <vgui_controls/TextImage.h>
 #include <vgui_controls/ImagePanel.h>
 #include "convar.h"
 #include "asw_difficulty_chooser.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

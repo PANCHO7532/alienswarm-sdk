@@ -5,13 +5,13 @@
 #include "vgui_controls/Frame.h"
 #include "hud_element_helper.h"
 #include "hud_basechat.h"
-#include "vgui\ChatEchoPanel.h"
+#include "vgui\chatechopanel.h"
 #include "inputsystem/ButtonCode.h"
 #include "clientmode_shared.h"
 #include "clientmode_asw.h"
 #include "vgui\asw_hud_chat.h"
 #include <vgui/IInput.h>
-#include "vgui\FadeInPanel.h"
+#include "vgui\fadeinpanel.h"
 #include <vgui_controls/PHandle.h>
 #include "c_asw_game_resource.h"
 

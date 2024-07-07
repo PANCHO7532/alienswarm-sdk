@@ -8,8 +8,8 @@
 #ifndef IMAGE_MOUSE_OVER_BUTTON_H
 #define IMAGE_MOUSE_OVER_BUTTON_H
 
-#include "vgui/isurface.h"
-#include "vgui/ischeme.h"
+#include "vgui/ISurface.h"
+#include "vgui/IScheme.h"
 #include "mouseoverpanelbutton.h"
 
 //===============================================

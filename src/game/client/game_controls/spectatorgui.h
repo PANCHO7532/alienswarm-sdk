@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 #endif
 
 #include <vgui/IScheme.h>
-#include <vgui/keycode.h>
+#include <vgui/KeyCode.h>
 #include <vgui_controls/Frame.h>
 #include <vgui_controls/EditablePanel.h>
 #include <vgui_controls/Button.h>

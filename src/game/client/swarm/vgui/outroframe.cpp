@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "outroframe.h"
-#include "vgui\CampaignPanel.h"
+#include "vgui\campaignpanel.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

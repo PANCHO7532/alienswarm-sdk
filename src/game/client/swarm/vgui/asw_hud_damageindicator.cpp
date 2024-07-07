@@ -13,9 +13,9 @@
 #include <KeyValues.h>
 #include <vgui_controls/AnimationController.h>
 #include <vgui/ISurface.h>
-#include "vguimatsurface/IMatSystemSurface.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/IMesh.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/imesh.h"
 #include "materialsystem/imaterialvar.h"
 #include "IEffects.h"
 #include "hudelement.h"
@@ -23,7 +23,7 @@
 #include "c_asw_player.h"
 #include "c_asw_marine.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 
 using namespace vgui;
 

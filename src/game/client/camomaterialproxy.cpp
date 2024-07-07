@@ -11,12 +11,12 @@
 #pragma warning(disable: 4786)
 
 #include "proxyentity.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/ITexture.h"
-#include "bitmap/TGALoader.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/itexture.h"
+#include "bitmap/tgaloader.h"
 #include "view.h"
 #include "datacache/idatacache.h"
-#include "materialsystem/IMaterial.h"
+#include "materialsystem/imaterial.h"
 #include "vtf/vtf.h"
 
 #include "imaterialproxydict.h"

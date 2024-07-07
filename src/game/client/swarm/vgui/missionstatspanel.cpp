@@ -7,7 +7,7 @@
 #include "asw_gamerules.h"
 #include "c_asw_game_resource.h"
 #include "c_asw_marine_resource.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "briefingtooltip.h"
 #include "c_playerresource.h"
 #include "c_asw_debrief_stats.h"

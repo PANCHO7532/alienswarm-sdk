@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -9,9 +9,9 @@
 #include <stdarg.h>
 #include "hud.h"
 #include "itextmessage.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/ITexture.h"
-#include "materialsystem/IMaterialSystem.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/itexture.h"
+#include "materialsystem/imaterialsystem.h"
 #include "imovehelper.h"
 #include "checksum_crc.h"
 #include "decals.h"

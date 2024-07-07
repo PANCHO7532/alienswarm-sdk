@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,7 +10,7 @@
 #include <vgui_controls/Label.h>
 #include <vgui_controls/EditablePanel.h>
 #include <vgui_controls/ImagePanel.h>
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "c_baseplayer.h"
 #include "iclientmode.h"
 #include "c_team_objectiveresource.h"

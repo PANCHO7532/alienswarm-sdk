@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose: 
 //
@@ -12,7 +12,7 @@
 
 
 #include <vgui/VGUI.h>
-#include "vgui/isurfacev30.h"
+#include "vgui/ISurfaceV30.h"
 
 
 namespace MatSystemSurfaceV5

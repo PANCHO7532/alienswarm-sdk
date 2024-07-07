@@ -9,8 +9,8 @@
 #include "asw_shareddefs.h"
 #include "tier0/vprof.h"
 #include "datacache/imdlcache.h"
-#include "engine/IVDebugOverlay.h"
-#include "soundemittersystem/isoundemittersystembase.h"
+#include "engine/ivdebugoverlay.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"
 

@@ -1,7 +1,7 @@
-//========= Copyright © 1996-2007, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2007, Valve Corporation, All rights reserved. ============//
 
 #include "BaseVSShader.h"
-#include "shaderlib/CShader.h"
+#include "shaderlib/cshader.h"
 
 #include "debugtextureview_vs20.inc"
 #include "debugtextureview_ps20.inc"

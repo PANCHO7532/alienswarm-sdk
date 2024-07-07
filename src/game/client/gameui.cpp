@@ -8,8 +8,8 @@
 #include "gameui.h"
 #include "tier1/timeutils.h"
 #include "cdll_client_int.h"
-#include "soundemittersystem/isoundemittersystembase.h"
-#include "engine/ienginesound.h"
+#include "SoundEmitterSystem/isoundemittersystembase.h"
+#include "engine/IEngineSound.h"
 #include "filesystem.h"
 #include "inputsystem/iinputstacksystem.h"
 

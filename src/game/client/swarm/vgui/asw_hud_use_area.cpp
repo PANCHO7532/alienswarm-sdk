@@ -17,7 +17,7 @@
 #include "c_asw_marine.h"
 #include "asw_marine_profile.h"
 #include "c_asw_marine_resource.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "iasw_client_usable_entity.h"
 #include "asw_shareddefs.h"
 #include "precache_register.h"

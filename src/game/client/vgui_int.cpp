@@ -14,7 +14,7 @@
 #include "imessagechars.h"
 #include "inetgraphpanel.h"
 #include "idebugoverlaypanel.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include <vgui/IVGui.h>
 #include <vgui/IInput.h>
 #include "tier0/vprof.h"

@@ -9,7 +9,7 @@
 #include "c_asw_marine.h"
 #include "c_asw_generic_emitter_entity.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #else
 #include "asw_marine.h"
 #include "asw_player.h"

@@ -3,7 +3,7 @@
 #include "vgui_controls/AnimationController.h"
 #include "vgui_controls/Label.h"
 #include "vgui_controls/ImagePanel.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "statsbar.h"
 #include "asw_gamerules.h"
 #include "c_asw_player.h"

@@ -11,8 +11,8 @@
 #include "vgui_controls/Frame.h"
 #include "vgui_controls/Button.h"
 #include "tier1/utllinkedlist.h"
-#include "tier1/UtlMap.h"
-#include "tier1/keyvalues.h"
+#include "tier1/utlmap.h"
+#include "tier1/KeyValues.h"
 #include "tier1/fmtstr.h"
 
 #ifndef _X360

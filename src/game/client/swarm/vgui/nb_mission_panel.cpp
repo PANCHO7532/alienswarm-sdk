@@ -20,7 +20,7 @@
 #include "asw_input.h"
 #include "nb_island.h"
 #include "gameui/swarm/basemodpanel.h"
-#include "gameui/swarm/VFooterPanel.h"
+#include "gameui/swarm/vfooterpanel.h"
 
 using namespace vgui;
 

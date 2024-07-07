@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Responsible for drawing the scene
 //
@@ -10,7 +10,7 @@
 #include "precache_register.h"
 #include "materialsystem/imaterialsystemhardwareconfig.h"
 #include "c_asw_render_targets.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 #include "renderparm.h"
 #include "asw_weapon_night_vision.h"
 #include "c_asw_player.h"

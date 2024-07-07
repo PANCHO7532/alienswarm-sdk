@@ -1,7 +1,7 @@
-//===== Copyright © 1996-2008, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2008, Valve Corporation, All rights reserved. ======//
 
 #include "BaseVSShader.h"
-#include "mathlib/VMatrix.h"
+#include "mathlib/vmatrix.h"
 #include "eye_refract_helper.h"
 
 #include "cpp_shader_constant_register_map.h"

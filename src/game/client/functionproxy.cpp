@@ -7,8 +7,8 @@
 #include "cbase.h"
 #include "functionproxy.h"
 #include <KeyValues.h>
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/IMaterial.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/imaterial.h"
 #include "iclientrenderable.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

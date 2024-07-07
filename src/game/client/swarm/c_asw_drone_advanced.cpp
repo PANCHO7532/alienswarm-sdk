@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "c_asw_drone_advanced.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "asw_shareddefs.h"
 #include "tier0/vprof.h"
 #include "con_nprint.h"

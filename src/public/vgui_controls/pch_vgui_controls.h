@@ -39,7 +39,7 @@
 #include "vgui/MouseCode.h"
 
 // vgui controls includes
-#include "vgui_controls/controls.h"
+#include "vgui_controls/Controls.h"
 
 #include "vgui_controls/AnimatingImagePanel.h"
 #include "vgui_controls/AnimationController.h"

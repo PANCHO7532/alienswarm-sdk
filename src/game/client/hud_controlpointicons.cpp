@@ -11,7 +11,7 @@
 #include "c_team_objectiveresource.h"
 #include "c_playerresource.h"
 #include "c_baseplayer.h"
-#include "vguimatsurface/IMatSystemSurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "hud_macros.h"
 #include "spectatorgui.h"
 #include "c_team.h"

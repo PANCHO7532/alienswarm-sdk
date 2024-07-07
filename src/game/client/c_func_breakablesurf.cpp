@@ -9,7 +9,7 @@
 #include "particles_simple.h"
 #include "iviewrender.h"
 #include "proxyentity.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialvar.h"
 #include "model_types.h"
 #include "engine/ivmodelinfo.h"
 #include "c_physbox.h"

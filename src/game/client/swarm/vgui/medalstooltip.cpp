@@ -1,5 +1,5 @@
 #include "cbase.h"
-#include <vgui/isurface.h>
+#include <vgui/ISurface.h>
 #include "medalstooltip.h"
 
 // memdbgon must be the last include file in a .cpp file!!!

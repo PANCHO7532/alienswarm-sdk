@@ -17,7 +17,7 @@
 
 #include "mathlib/vector.h"
 #include "icliententityinternal.h"
-#include "engine/IVModelRender.h"
+#include "engine/ivmodelrender.h"
 #include "client_class.h"
 #include "iclientshadowmgr.h"
 #include "ehandle.h"

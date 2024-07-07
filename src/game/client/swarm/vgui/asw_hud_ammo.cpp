@@ -26,7 +26,7 @@ using namespace vgui;
 #include "asw_vgui_ammo_list.h"
 #include "asw_vgui_marine_ammo_report.h"
 #include "c_asw_weapon.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "tier0/vprof.h"
 #include "convar.h"
 #include "asw_weapon_parse.h"

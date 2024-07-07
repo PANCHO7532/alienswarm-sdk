@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -10,9 +10,9 @@
 #ifdef CLIENT_DLL
 
 #include "clientsideeffects.h"
-#include "materialsystem/IMaterialSystem.h"
-#include "materialsystem/IMesh.h"
-#include "mathlib/VMatrix.h"
+#include "materialsystem/imaterialsystem.h"
+#include "materialsystem/imesh.h"
+#include "mathlib/vmatrix.h"
 #include "view.h"
 #include "beamdraw.h"
 #include "enginesprite.h"

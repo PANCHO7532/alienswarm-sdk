@@ -5,7 +5,7 @@
 #include <vgui_controls/Label.h>
 #include "c_asw_player.h"
 #include "c_playerresource.h"
-#include <vgui/IVGUI.h>
+#include <vgui/IVGui.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

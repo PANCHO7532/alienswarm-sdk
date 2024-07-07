@@ -17,7 +17,7 @@
 #include "bsptreedata.h"
 #include "detailobjectsystem.h"
 #include "engine/IStaticPropMgr.h"
-#include "engine/IVDebugOverlay.h"
+#include "engine/ivdebugoverlay.h"
 #include "vstdlib/jobthread.h"
 #include "tier1/utllinkedlist.h"
 #include "datacache/imdlcache.h"

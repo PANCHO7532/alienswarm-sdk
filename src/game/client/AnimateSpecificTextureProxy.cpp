@@ -8,10 +8,10 @@
 // $NoKeywords: $
 //=============================================================================//
 #include "cbase.h"
-#include "materialsystem/IMaterialProxy.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/imaterialproxy.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/itexture.h"
 #include "baseanimatedtextureproxy.h"
 #include "utlstring.h"
 #include <KeyValues.h>

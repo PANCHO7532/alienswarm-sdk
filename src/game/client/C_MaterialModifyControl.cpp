@@ -6,9 +6,9 @@
 
 #include "cbase.h"
 #include "proxyentity.h"
-#include "materialsystem/IMaterial.h"
-#include "materialsystem/IMaterialVar.h"
-#include "materialsystem/ITexture.h"
+#include "materialsystem/imaterial.h"
+#include "materialsystem/imaterialvar.h"
+#include "materialsystem/itexture.h"
 #include "iviewrender.h"
 #include "texture_group_names.h"
 #include "baseanimatedtextureproxy.h"

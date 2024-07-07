@@ -1,12 +1,12 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: Responsible for drawing the scene
 //
 //===========================================================================//
 
 #include "cbase.h"
-#include "materialsystem/IMaterialSystem.h"
-#include "materialsystem/IMaterialVar.h"
+#include "materialsystem/imaterialsystem.h"
+#include "materialsystem/imaterialvar.h"
 #include "materialsystem/imaterialsystemhardwareconfig.h"
 #include "rendertexture.h"
 #include "view_scene.h"

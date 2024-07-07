@@ -8,8 +8,8 @@
 #include "asw_vgui_info_message.h"
 #include "fx.h"
 #include "idebugoverlaypanel.h"
-#include "engine/IVDebugOverlay.h"
-#include "vguimatsurface/imatsystemsurface.h"
+#include "engine/ivdebugoverlay.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "iclientmode.h"
 #include <vgui_controls/AnimationController.h>
 #include "asw_shareddefs.h"

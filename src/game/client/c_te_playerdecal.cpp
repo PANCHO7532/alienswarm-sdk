@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -11,7 +11,7 @@
 #include "iefx.h"
 #include "fx.h"
 #include "decals.h"
-#include "materialsystem/IMaterialSystem.h"
+#include "materialsystem/imaterialsystem.h"
 #include "filesystem.h"
 #include "materialsystem/imaterial.h"
 #include "materialsystem/itexture.h"

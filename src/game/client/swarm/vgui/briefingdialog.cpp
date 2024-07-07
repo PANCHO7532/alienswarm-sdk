@@ -1,9 +1,9 @@
 #include "cbase.h"
 #include "briefingdialog.h"
-#include <vgui/vgui.h>
+#include <vgui/VGUI.h>
 #include <vgui_controls/Controls.h>
 #include <vgui_controls/TextImage.h>
-#include "vgui_controls/frame.h"
+#include "vgui_controls/Frame.h"
 #include "iclientmode.h"
 #include "vgui_controls\Label.h"
 #include <vgui/ILocalize.h>

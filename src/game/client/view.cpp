@@ -40,7 +40,7 @@
 #include <vgui/ISurface.h>
 #include "ScreenSpaceEffects.h"
 #include "vgui_int.h"
-#include "engine/sndinfo.h"
+#include "engine/SndInfo.h"
 #ifdef GAMEUI_UISYSTEM2_ENABLED
 #include "gameui.h"
 #endif

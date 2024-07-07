@@ -9,7 +9,7 @@
 #include "objectivemapmarkpanel.h"
 #include "wrappedlabel.h"
 #include "asw_gamerules.h"
-#include "vgui/isurface.h"
+#include "vgui/ISurface.h"
 #include "softline.h"
 #include "chatechopanel.h"
 #include "scanlinepanel.h"
@@ -32,7 +32,7 @@
 #include "asw_briefing.h"
 #include "gameui/swarm/uigamedata.h"
 #include "nb_vote_panel.h"
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

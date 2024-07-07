@@ -17,7 +17,7 @@
 #include "icliententityinternal.h"
 #include "engine/ishadowmgr.h"
 #include "ivrenderview.h"
-#include "toolframework/IToolEntity.h"
+#include "toolframework/itoolentity.h"
 
 //-----------------------------------------------------------------------------
 // Forward decls

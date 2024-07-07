@@ -1,4 +1,4 @@
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
@@ -6,7 +6,7 @@
 // $NoKeywords: $
 //===========================================================================//
 
-#include "shaderlib/CShader.h"
+#include "shaderlib/cshader.h"
 #include "convar.h"
 #include "debugdrawdepth_vs20.inc"
 #include "debugdrawdepth_ps20.inc"

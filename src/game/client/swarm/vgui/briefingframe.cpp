@@ -1,6 +1,6 @@
 #include "cbase.h"
 #include "briefingframe.h"
-#include "vgui\BriefingImagePanel.h"
+#include "vgui\briefingimagepanel.h"
 #include "vgui\nb_mission_panel.h"
 #include "c_asw_player.h"
 #include "controller_focus.h"

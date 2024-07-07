@@ -1,7 +1,7 @@
 #include "cbase.h"
 #include "nb_lobby_row_small.h"
 #include "asw_briefing.h"
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 #include "vgui_controls/ImagePanel.h"
 
 #include "vgui_controls/Panel.h"

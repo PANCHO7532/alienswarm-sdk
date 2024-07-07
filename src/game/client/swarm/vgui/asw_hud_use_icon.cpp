@@ -3,9 +3,9 @@
 #include <vgui_controls/AnimationController.h>
 #include <vgui_controls/ImagePanel.h>
 #include <vgui_controls/Label.h>
-#include "vguimatsurface/imatsystemsurface.h"
+#include "VGuiMatSurface/IMatSystemSurface.h"
 #include "asw_hud_use_icon.h"
-#include "vgui/ilocalize.h"
+#include "vgui/ILocalize.h"
 #include "c_asw_player.h"
 #include "c_asw_marine.h"
 #include "c_asw_use_area.h"
